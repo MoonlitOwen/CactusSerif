@@ -2,7 +2,9 @@
 
 ## 🌕提要
 
-「仙人掌明體（Cactus Classical Serif）」爲適用於繁體中文環境的開源字型，它以[Henry Chan開發的「香港民間字集傳承字形版」字型](https://github.com/hfhchan/hkcs)及其於[字形維基（Glyphwiki）](https://glyphwiki.org/wiki/User:hkcs)登錄的字圖爲基礎，局部參考傳承字形，包括[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)的推薦形體，與其他常見的傳承字形，修改爲中文傳統字形，補製了一些欠缺的漢字。
+「仙人掌明體（Cactus Classical Serif）」爲適用於繁體中文環境的開源字型，它以[Henry Chan開發的「香港民間字集傳承字形版」字型](https://github.com/hfhchan/hkcs)及其於[字形維基（Glyphwiki）](https://glyphwiki.org/wiki/User:hkcs)登錄的字圖爲基礎，並以[But Ko基於「思源字型」開發的「源樣明體」字型](https://github.com/ButTaiwan/genyo-font/)補充西文及其他字符，局部參考傳承字形，包括[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)的推薦形體，與其他常見的傳承字形，修改爲中文傳統字形，補製了一些欠缺的漢字。
+
+![示範文字](img/img01.png)
 
 ## 🌕下載
 
@@ -10,7 +12,7 @@
 
 🌕 [仙人掌明體 Cactus Classical Serif 下載](fonts/CactusClassicalSerif.ttf) 🌕
 
-另有特殊版本「簡繁轉換版」，收錄字數較少，方便把簡體文件顯示成繁體中文。此版本以[GuiWonder開發的「中文字型簡繁處理工具」](https://github.com/GuiWonder/TCFontCreator)製作。
+另有特殊版本「簡繁轉換版」，收錄字數較少，方便把簡體文件顯示成繁體中文。但它包含的字符都比較少，請確定有必要才使用它。此版本以[GuiWonder開發的「中文字型簡繁處理工具」](https://github.com/GuiWonder/TCFontCreator)製作。
 
 🌕 [仙人掌明體（簡轉轉換） Cactus Serif Sim-to-Trad 下載](fonts/CactusSerifSimtoTrad.ttf) 🌕
 
@@ -27,7 +29,11 @@
 
 ## 🌕鳴謝
 * [傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)
+* [一點字坊（I.字坊 I.Font Project）](https://github.com/ichitenfont)
 * [香港民間字集](https://github.com/hfhchan/hkcs)
 * [字形維基（Glyphwiki）](https://glyphwiki.org/wiki/User:hkcs)
+* [一點明體（I.明體 I.Ming）](https://github.com/ichitenfont/I.Ming)
+* [源樣明體（GenYoMin）](https://github.com/ButTaiwan/genyo-font/)
+* [思源宋體（Source Han Serif /Noto Serif CJK）的日文和韓文版](https://github.com/adobe-fonts/source-han-serif/)
 * [中文字型簡繁處理工具（TC Font Creator）](https://github.com/GuiWonder/TCFontCreator)
 * [繁媛明朝（Fan Wun Ming）](https://github.com/ayaka14732/FanWunMing)
