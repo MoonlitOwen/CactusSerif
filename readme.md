@@ -2,7 +2,7 @@
 
 ## 🌕提要
 
-「仙人掌明體（Cactus Classical Serif）」爲適用於繁體中文環境的開源字型，它以[Henry Chan開發的「香港民間字集傳承字形版」字型](https://github.com/hfhchan/hkcs)及其於[字形維基（Glyphwiki）](https://glyphwiki.org/wiki/User:hkcs)登錄的字圖爲基礎，並以[But Ko基於「思源字型」開發的「源樣明體」字型](https://github.com/ButTaiwan/genyo-font/)補充西文及其他字符，局部參考傳承字形，包括[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)的推薦形體，與其他常見的傳承字形，修改爲中文傳統字形，補製了一些欠缺的漢字。
+「仙人掌明體（Cactus Classical Serif）」爲適用於繁體中文環境的開源字型，主要製作者爲田海東，宇文滿月參與製作及維護。它以[Henry Chan開發的「香港民間字集傳承字形版」字型](https://github.com/hfhchan/hkcs)及其於[字形維基（Glyphwiki）](https://glyphwiki.org/wiki/User:hkcs)登錄的字圖爲基礎，並以[But Ko基於「思源字型」開發的「源樣明體」字型](https://github.com/ButTaiwan/genyo-font/)補充西文及其他字符，局部參考傳承字形，包括[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)的推薦形體，與其他常見的傳承字形，把字形修改爲中文傳統的形體，並補製一些欠缺的漢字。
 
 ![示範文字](img/img01.png)
 
@@ -18,14 +18,14 @@
 
 ## 🌕製作說明
 
-本字型主力由田海東製作，宇文滿月參與修改，以應付屏顯和排印之需。
+本字型由Henry Chan繪製主要字圖，田海東主力製作，宇文滿月參與修改，以應付屏顯和排印之需。
 
 礙於人力、時間等限制，本字型尚有不少地方有待高賢不吝賜正，敬祈見諒。
 
 ## 🌕聯絡滿月
 關於本字型的問題，可以在本專案的[issue](https://github.com/MoonlitOwen/CactusSerif/issues)上提出。
 
-滿月自己是VTuber，平日活躍於YouTube和社交媒體，歡迎瀏覽滿月的連結集：[http://lit.link/moonlitowen](http://lit.link/moonlitowen)，訂閱和追蹤滿月💛💜
+滿月自己是VTuber，平日活躍於YouTube和社交媒體，歡迎瀏覽滿月的連結集：[http://lit.link/moonlitowen](http://lit.link/moonlitowen)，訂閱[滿月的YouTube頻道](https://www.youtube.com/@moonlitowen)和追蹤滿月的社交媒體💛💜
 
 ## 🌕鳴謝
 * [傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)
