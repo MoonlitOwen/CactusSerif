@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cjkstrokehzzz" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="31CE"/>
+  <outline>
+    <contour>
+      <point x="679" y="1" type="line"/>
+      <point x="679" y="418" type="line"/>
+      <point x="510" y="418" type="line"/>
+      <point x="485" y="389" type="line"/>
+      <point x="412" y="430" type="line"/>
+      <point x="420" y="439"/>
+      <point x="440" y="452" type="qcurve"/>
+      <point x="440" y="720" type="line"/>
+      <point x="240" y="720" type="line"/>
+      <point x="232" y="749" type="line"/>
+      <point x="457" y="749" type="line"/>
+      <point x="484" y="784" type="line"/>
+      <point x="539" y="720" type="line"/>
+      <point x="525" y="708"/>
+      <point x="504" y="704" type="qcurve"/>
+      <point x="504" y="448" type="line"/>
+      <point x="669" y="448" type="line"/>
+      <point x="706" y="488" type="line"/>
+      <point x="786" y="426" type="line"/>
+      <point x="775" y="411"/>
+      <point x="744" y="405" type="qcurve"/>
+      <point x="744" y="23" type="line"/>
+      <point x="743" y="17"/>
+      <point x="705" y="1"/>
+      <point x="689" y="1" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

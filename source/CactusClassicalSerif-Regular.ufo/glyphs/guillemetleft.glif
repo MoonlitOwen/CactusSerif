@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemetleft" format="2">
+  <advance width="524" height="1000"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="258" y="55" type="line"/>
+      <point x="30" y="250" type="line"/>
+      <point x="30" y="299" type="line"/>
+      <point x="258" y="494" type="line"/>
+      <point x="278" y="470" type="line"/>
+      <point x="106" y="274" type="line"/>
+      <point x="278" y="79" type="line"/>
+    </contour>
+    <contour>
+      <point x="474" y="55" type="line"/>
+      <point x="247" y="250" type="line"/>
+      <point x="247" y="299" type="line"/>
+      <point x="474" y="494" type="line"/>
+      <point x="495" y="470" type="line"/>
+      <point x="322" y="274" type="line"/>
+      <point x="495" y="79" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

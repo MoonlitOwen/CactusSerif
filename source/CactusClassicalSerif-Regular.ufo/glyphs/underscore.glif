@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="2">
+  <advance width="555" height="1000"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="43" y="-64" type="line"/>
+      <point x="43" y="-7" type="line"/>
+      <point x="512" y="-7" type="line"/>
+      <point x="512" y="-64" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lamda-grek" format="2">
+  <advance width="716" height="1000"/>
+  <unicode hex="039B"/>
+  <outline>
+    <contour>
+      <point x="4" y="0" type="line"/>
+      <point x="4" y="36" type="line"/>
+      <point x="98" y="48" type="line"/>
+      <point x="328" y="736" type="line"/>
+      <point x="385" y="736" type="line"/>
+      <point x="619" y="45" type="line"/>
+      <point x="707" y="36" type="line"/>
+      <point x="707" y="0" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="421" y="36" type="line"/>
+      <point x="530" y="47" type="line"/>
+      <point x="336" y="637" type="line"/>
+      <point x="142" y="49" type="line"/>
+      <point x="253" y="36" type="line"/>
+      <point x="253" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

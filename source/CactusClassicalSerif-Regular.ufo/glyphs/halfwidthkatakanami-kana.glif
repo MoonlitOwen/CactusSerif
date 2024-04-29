@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="halfwidthkatakanami-kana" format="2">
+  <advance width="500" height="1000"/>
+  <unicode hex="FF90"/>
+  <outline>
+    <contour>
+      <point x="402" y="7" type="qcurve"/>
+      <point x="387" y="7"/>
+      <point x="351" y="42" type="qcurve"/>
+      <point x="345" y="48"/>
+      <point x="342" y="51" type="qcurve"/>
+      <point x="284" y="101"/>
+      <point x="217" y="135" type="qcurve"/>
+      <point x="175" y="156"/>
+      <point x="80" y="194" type="qcurve"/>
+      <point x="74" y="196"/>
+      <point x="71" y="197" type="qcurve"/>
+      <point x="77" y="225" type="line"/>
+      <point x="165" y="214"/>
+      <point x="262" y="178" type="qcurve"/>
+      <point x="350" y="145"/>
+      <point x="392" y="112" type="qcurve"/>
+      <point x="436" y="81"/>
+      <point x="436" y="46" type="qcurve"/>
+      <point x="436" y="29"/>
+      <point x="418" y="7"/>
+    </contour>
+    <contour>
+      <point x="347" y="303" type="qcurve"/>
+      <point x="333" y="303"/>
+      <point x="305" y="329" type="qcurve"/>
+      <point x="220" y="397"/>
+      <point x="105" y="444" type="qcurve"/>
+      <point x="110" y="470" type="line"/>
+      <point x="176" y="465"/>
+      <point x="242" y="442" type="qcurve"/>
+      <point x="294" y="424"/>
+      <point x="328" y="402" type="qcurve"/>
+      <point x="376" y="372"/>
+      <point x="376" y="337" type="qcurve"/>
+      <point x="376" y="324"/>
+      <point x="358" y="303"/>
+    </contour>
+    <contour>
+      <point x="393" y="522" type="qcurve"/>
+      <point x="377" y="522"/>
+      <point x="343" y="551" type="qcurve"/>
+      <point x="265" y="618"/>
+      <point x="115" y="670" type="qcurve"/>
+      <point x="121" y="697" type="line"/>
+      <point x="263" y="683"/>
+      <point x="362" y="624" type="qcurve"/>
+      <point x="420" y="597"/>
+      <point x="420" y="557" type="qcurve"/>
+      <point x="420" y="543"/>
+      <point x="403" y="522"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

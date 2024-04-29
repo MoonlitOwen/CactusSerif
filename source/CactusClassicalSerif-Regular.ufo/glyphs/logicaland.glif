@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicaland" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2227"/>
+  <outline>
+    <contour>
+      <point x="160" y="-12" type="line"/>
+      <point x="120" y="8" type="line"/>
+      <point x="499" y="748" type="line"/>
+      <point x="501" y="748" type="line"/>
+      <point x="880" y="8" type="line"/>
+      <point x="841" y="-12" type="line"/>
+      <point x="501" y="654" type="line"/>
+      <point x="499" y="654" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

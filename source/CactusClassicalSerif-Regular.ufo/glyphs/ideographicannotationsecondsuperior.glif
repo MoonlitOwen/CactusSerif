@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ideographicannotationsecondsuperior" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="319A"/>
+  <outline>
+    <contour>
+      <point x="409" y="-30" type="line"/>
+      <point x="252" y="-30"/>
+      <point x="179" y="-2" type="qcurve"/>
+      <point x="103" y="28"/>
+      <point x="91" y="99" type="qcurve"/>
+      <point x="83" y="153"/>
+      <point x="137" y="226" type="qcurve"/>
+      <point x="186" y="292"/>
+      <point x="309" y="401" type="qcurve"/>
+      <point x="387" y="470"/>
+      <point x="606" y="652" type="qcurve"/>
+      <point x="653" y="691"/>
+      <point x="678" y="712" type="qcurve"/>
+      <point x="124" y="712" type="line"/>
+      <point x="115" y="741" type="line"/>
+      <point x="704" y="741" type="line"/>
+      <point x="740" y="777" type="line"/>
+      <point x="817" y="705" type="line"/>
+      <point x="798" y="693"/>
+      <point x="761" y="692" type="qcurve"/>
+      <point x="435" y="436"/>
+      <point x="298" y="304" type="qcurve"/>
+      <point x="158" y="168"/>
+      <point x="167" y="112" type="qcurve"/>
+      <point x="175" y="70"/>
+      <point x="279" y="37"/>
+      <point x="400" y="37" type="qcurve"/>
+      <point x="672" y="37" type="line"/>
+      <point x="768" y="37"/>
+      <point x="803" y="43" type="qcurve"/>
+      <point x="827" y="48"/>
+      <point x="837" y="61" type="qcurve"/>
+      <point x="854" y="83"/>
+      <point x="868" y="132" type="qcurve"/>
+      <point x="878" y="164"/>
+      <point x="896" y="245" type="qcurve"/>
+      <point x="909" y="243" type="line"/>
+      <point x="904" y="55" type="line"/>
+      <point x="930" y="48"/>
+      <point x="939" y="43" type="qcurve"/>
+      <point x="949" y="37"/>
+      <point x="949" y="26" type="qcurve"/>
+      <point x="949" y="-5"/>
+      <point x="881" y="-18" type="qcurve"/>
+      <point x="816" y="-30"/>
+      <point x="663" y="-30" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

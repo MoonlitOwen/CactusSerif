@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cjkstroked" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="31D4"/>
+  <outline>
+    <contour>
+      <point x="696" y="216"/>
+      <point x="666" y="233" type="qcurve"/>
+      <point x="624" y="315"/>
+      <point x="509" y="429" type="qcurve"/>
+      <point x="410" y="525"/>
+      <point x="301" y="604" type="qcurve"/>
+      <point x="313" y="615" type="line"/>
+      <point x="446" y="555"/>
+      <point x="541" y="488" type="qcurve"/>
+      <point x="623" y="430"/>
+      <point x="671" y="372" type="qcurve"/>
+      <point x="711" y="322"/>
+      <point x="721" y="281" type="qcurve"/>
+      <point x="730" y="245"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

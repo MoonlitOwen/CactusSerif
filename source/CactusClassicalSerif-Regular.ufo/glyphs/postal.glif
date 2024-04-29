@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="postal" format="2">
+  <advance width="840" height="1000"/>
+  <unicode hex="3012"/>
+  <outline>
+    <contour>
+      <point x="385" y="10" type="line"/>
+      <point x="385" y="450" type="line"/>
+      <point x="85" y="450" type="line"/>
+      <point x="85" y="514" type="line"/>
+      <point x="755" y="514" type="line"/>
+      <point x="755" y="450" type="line"/>
+      <point x="455" y="450" type="line"/>
+      <point x="455" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="646" type="line"/>
+      <point x="85" y="710" type="line"/>
+      <point x="755" y="710" type="line"/>
+      <point x="755" y="646" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

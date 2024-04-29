@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="katakanaiterationmod-kana" format="2">
+  <advance width="690" height="1000"/>
+  <unicode hex="30FD"/>
+  <outline>
+    <contour>
+      <point x="449" y="169" type="qcurve"/>
+      <point x="430" y="169"/>
+      <point x="405" y="200"/>
+      <point x="394" y="237" type="qcurve"/>
+      <point x="367" y="329"/>
+      <point x="318" y="397" type="qcurve"/>
+      <point x="266" y="470"/>
+      <point x="179" y="528" type="qcurve"/>
+      <point x="193" y="548" type="line"/>
+      <point x="363" y="471"/>
+      <point x="442" y="353" type="qcurve"/>
+      <point x="490" y="281"/>
+      <point x="490" y="216" type="qcurve"/>
+      <point x="490" y="194"/>
+      <point x="466" y="169"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

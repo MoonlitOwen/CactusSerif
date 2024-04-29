@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="union" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="222A"/>
+  <outline>
+    <contour>
+      <point x="362" y="15"/>
+      <point x="277" y="106" type="qcurve"/>
+      <point x="185" y="204"/>
+      <point x="185" y="383" type="qcurve"/>
+      <point x="185" y="745" type="line"/>
+      <point x="229" y="745" type="line"/>
+      <point x="229" y="383" type="line"/>
+      <point x="229" y="226"/>
+      <point x="305" y="140" type="qcurve"/>
+      <point x="377" y="59"/>
+      <point x="500" y="59" type="qcurve"/>
+      <point x="623" y="59"/>
+      <point x="695" y="140" type="qcurve"/>
+      <point x="771" y="226"/>
+      <point x="771" y="383" type="qcurve"/>
+      <point x="771" y="745" type="line"/>
+      <point x="815" y="745" type="line"/>
+      <point x="815" y="383" type="line"/>
+      <point x="815" y="204"/>
+      <point x="723" y="106" type="qcurve"/>
+      <point x="638" y="15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

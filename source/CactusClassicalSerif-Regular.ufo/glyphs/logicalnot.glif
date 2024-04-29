@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="2">
+  <advance width="576" height="1000"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="483" y="178" type="line"/>
+      <point x="483" y="379" type="line"/>
+      <point x="30" y="379" type="line"/>
+      <point x="30" y="428" type="line"/>
+      <point x="536" y="428" type="line"/>
+      <point x="536" y="178" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

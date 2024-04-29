@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hiraganasi-kana" format="2">
+  <advance width="818" height="1000"/>
+  <unicode hex="3057"/>
+  <outline>
+    <contour>
+      <point x="387" y="-39" type="qcurve"/>
+      <point x="284" y="-39"/>
+      <point x="235" y="15" type="qcurve"/>
+      <point x="184" y="72"/>
+      <point x="184" y="197" type="qcurve"/>
+      <point x="184" y="293"/>
+      <point x="200" y="517" type="qcurve"/>
+      <point x="208" y="623"/>
+      <point x="208" y="645" type="qcurve"/>
+      <point x="208" y="671"/>
+      <point x="203" y="683" type="qcurve"/>
+      <point x="198" y="694"/>
+      <point x="185" y="702" type="qcurve"/>
+      <point x="158" y="717"/>
+      <point x="120" y="723" type="qcurve"/>
+      <point x="120" y="744" type="line"/>
+      <point x="163" y="752"/>
+      <point x="185" y="751" type="qcurve"/>
+      <point x="220" y="750"/>
+      <point x="301" y="691"/>
+      <point x="301" y="670" type="qcurve"/>
+      <point x="301" y="661"/>
+      <point x="292" y="645" type="qcurve"/>
+      <point x="278" y="621"/>
+      <point x="273" y="595" type="qcurve"/>
+      <point x="240" y="401"/>
+      <point x="240" y="203" type="qcurve"/>
+      <point x="240" y="107"/>
+      <point x="305" y="28"/>
+      <point x="387" y="28" type="qcurve"/>
+      <point x="507" y="28"/>
+      <point x="616" y="95" type="qcurve"/>
+      <point x="710" y="154"/>
+      <point x="766" y="242" type="qcurve"/>
+      <point x="788" y="227" type="line"/>
+      <point x="731" y="107"/>
+      <point x="626" y="35" type="qcurve"/>
+      <point x="517" y="-39"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>879.111083984375</real>
+    </dict>
+  </lib>
+</glyph>

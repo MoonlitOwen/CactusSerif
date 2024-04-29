@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wfullwidth" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FF57"/>
+  <outline>
+    <contour>
+      <point x="304" y="-7" type="line"/>
+      <point x="121" y="485" type="line"/>
+      <point x="35" y="493" type="line"/>
+      <point x="35" y="527" type="line"/>
+      <point x="305" y="527" type="line"/>
+      <point x="305" y="493" type="line"/>
+      <point x="215" y="485" type="line"/>
+      <point x="347" y="104" type="line"/>
+      <point x="481" y="484" type="line"/>
+      <point x="387" y="493" type="line"/>
+      <point x="387" y="527" type="line"/>
+      <point x="657" y="527" type="line"/>
+      <point x="657" y="493" type="line"/>
+      <point x="567" y="485" type="line"/>
+      <point x="702" y="104" type="line"/>
+      <point x="836" y="484" type="line"/>
+      <point x="746" y="493" type="line"/>
+      <point x="746" y="527" type="line"/>
+      <point x="966" y="527" type="line"/>
+      <point x="966" y="493" type="line"/>
+      <point x="879" y="484" type="line"/>
+      <point x="701" y="-7" type="line"/>
+      <point x="658" y="-7" type="line"/>
+      <point x="501" y="429" type="line"/>
+      <point x="347" y="-7" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>760</integer>
+    </dict>
+  </lib>
+</glyph>

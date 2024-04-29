@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2026"/>
+  <unicode hex="22EF"/>
+  <outline>
+    <contour>
+      <point x="144" y="324"/>
+      <point x="111" y="357"/>
+      <point x="111" y="403"/>
+      <point x="144" y="436"/>
+      <point x="167" y="436" type="qcurve"/>
+      <point x="190" y="436"/>
+      <point x="223" y="403"/>
+      <point x="223" y="357"/>
+      <point x="190" y="324"/>
+    </contour>
+    <contour>
+      <point x="477" y="324"/>
+      <point x="444" y="357"/>
+      <point x="444" y="403"/>
+      <point x="477" y="436"/>
+      <point x="500" y="436" type="qcurve"/>
+      <point x="523" y="436"/>
+      <point x="556" y="403"/>
+      <point x="556" y="357"/>
+      <point x="523" y="324"/>
+    </contour>
+    <contour>
+      <point x="810" y="324"/>
+      <point x="777" y="357"/>
+      <point x="777" y="403"/>
+      <point x="810" y="436"/>
+      <point x="833" y="436" type="qcurve"/>
+      <point x="856" y="436"/>
+      <point x="889" y="403"/>
+      <point x="889" y="357"/>
+      <point x="856" y="324"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

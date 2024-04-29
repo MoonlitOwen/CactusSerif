@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexacute" format="2">
+  <advance width="719" height="1000"/>
+  <unicode hex="1EA4"/>
+  <outline>
+    <contour>
+      <point x="8" y="0" type="line"/>
+      <point x="8" y="36" type="line"/>
+      <point x="98" y="48" type="line"/>
+      <point x="329" y="736" type="line"/>
+      <point x="385" y="736" type="line"/>
+      <point x="620" y="46" type="line"/>
+      <point x="710" y="36" type="line"/>
+      <point x="710" y="0" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="421" y="36" type="line"/>
+      <point x="531" y="47" type="line"/>
+      <point x="465" y="246" type="line"/>
+      <point x="208" y="246" type="line"/>
+      <point x="143" y="49" type="line"/>
+      <point x="248" y="36" type="line"/>
+      <point x="248" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="287" type="line"/>
+      <point x="451" y="287" type="line"/>
+      <point x="336" y="633" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="782" type="line"/>
+      <point x="199" y="802" type="line"/>
+      <point x="339" y="926" type="line"/>
+      <point x="371" y="926" type="line"/>
+      <point x="511" y="802" type="line"/>
+      <point x="495" y="782" type="line"/>
+      <point x="355" y="863" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="867" type="line"/>
+      <point x="463" y="885" type="line"/>
+      <point x="519" y="957" type="line"/>
+      <point x="542" y="986"/>
+      <point x="564" y="986" type="qcurve"/>
+      <point x="578" y="986"/>
+      <point x="596" y="969"/>
+      <point x="596" y="944"/>
+      <point x="588" y="934" type="qcurve"/>
+      <point x="577" y="922"/>
+      <point x="550" y="908" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

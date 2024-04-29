@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ubar" format="2">
+  <advance width="796" height="1000"/>
+  <unicode hex="0244"/>
+  <outline>
+    <contour>
+      <point x="402" y="-16" type="qcurve"/>
+      <point x="143" y="-16"/>
+      <point x="143" y="276" type="qcurve"/>
+      <point x="143" y="391" type="line"/>
+      <point x="48" y="391" type="line"/>
+      <point x="48" y="427" type="line"/>
+      <point x="143" y="427" type="line"/>
+      <point x="143" y="604"/>
+      <point x="142" y="691" type="qcurve"/>
+      <point x="46" y="699" type="line"/>
+      <point x="46" y="728" type="line"/>
+      <point x="338" y="728" type="line"/>
+      <point x="338" y="699" type="line"/>
+      <point x="229" y="690" type="line"/>
+      <point x="227" y="604"/>
+      <point x="227" y="427" type="qcurve"/>
+      <point x="619" y="427" type="line"/>
+      <point x="619" y="687" type="line"/>
+      <point x="496" y="699" type="line"/>
+      <point x="496" y="728" type="line"/>
+      <point x="755" y="728" type="line"/>
+      <point x="755" y="699" type="line"/>
+      <point x="657" y="687" type="line"/>
+      <point x="656" y="427" type="line"/>
+      <point x="756" y="427" type="line"/>
+      <point x="756" y="391" type="line"/>
+      <point x="656" y="391" type="line"/>
+      <point x="656" y="285" type="line"/>
+      <point x="655" y="-16"/>
+    </contour>
+    <contour>
+      <point x="418" y="38" type="qcurve"/>
+      <point x="523" y="38"/>
+      <point x="570" y="99" type="qcurve"/>
+      <point x="620" y="163"/>
+      <point x="619" y="306" type="qcurve"/>
+      <point x="619" y="391" type="line"/>
+      <point x="227" y="391" type="line"/>
+      <point x="227" y="291" type="line"/>
+      <point x="227" y="38"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

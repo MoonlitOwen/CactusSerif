@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="presentationformforverticalleftdoubleanglebracket" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE3D"/>
+  <outline>
+    <contour>
+      <point x="52" y="-82" type="line"/>
+      <point x="34" y="-53" type="line"/>
+      <point x="500" y="215" type="line"/>
+      <point x="966" y="-53" type="line"/>
+      <point x="948" y="-82" type="line"/>
+      <point x="500" y="175" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="61" type="line"/>
+      <point x="34" y="90" type="line"/>
+      <point x="500" y="357" type="line"/>
+      <point x="966" y="90" type="line"/>
+      <point x="948" y="61" type="line"/>
+      <point x="500" y="317" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

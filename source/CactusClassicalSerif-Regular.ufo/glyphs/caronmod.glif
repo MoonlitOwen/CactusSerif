@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caronmod" format="2">
+  <advance width="600" height="1000"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="251" y="463" type="line"/>
+      <point x="58" y="799" type="line"/>
+      <point x="78" y="817" type="line"/>
+      <point x="301" y="570" type="line"/>
+      <point x="523" y="817" type="line"/>
+      <point x="542" y="799" type="line"/>
+      <point x="350" y="463" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

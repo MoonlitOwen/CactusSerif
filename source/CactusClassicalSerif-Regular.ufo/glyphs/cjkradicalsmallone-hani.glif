@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cjkradicalsmallone-hani" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2E8C"/>
+  <outline>
+    <contour>
+      <point x="467" y="514" type="line"/>
+      <point x="467" y="821" type="line"/>
+      <point x="570" y="811" type="line"/>
+      <point x="565" y="788"/>
+      <point x="532" y="783" type="qcurve"/>
+      <point x="532" y="537" type="line"/>
+      <point x="532" y="531"/>
+      <point x="496" y="514"/>
+      <point x="478" y="514" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="618" y="566" type="line"/>
+      <point x="703" y="658"/>
+      <point x="764" y="758" type="qcurve"/>
+      <point x="864" y="706" type="line"/>
+      <point x="854" y="687"/>
+      <point x="822" y="695" type="qcurve"/>
+      <point x="740" y="622"/>
+      <point x="640" y="566" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="299" y="570"/>
+      <point x="273" y="585" type="qcurve"/>
+      <point x="262" y="624"/>
+      <point x="222" y="668" type="qcurve"/>
+      <point x="185" y="707"/>
+      <point x="141" y="733" type="qcurve"/>
+      <point x="150" y="742" type="line"/>
+      <point x="229" y="726"/>
+      <point x="276" y="693" type="qcurve"/>
+      <point x="314" y="665"/>
+      <point x="324" y="631" type="qcurve"/>
+      <point x="332" y="601"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

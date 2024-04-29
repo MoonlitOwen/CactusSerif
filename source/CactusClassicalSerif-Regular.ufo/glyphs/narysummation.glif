@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="narysummation" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="215" y="-142" type="line"/>
+      <point x="215" y="-92" type="line"/>
+      <point x="490" y="300" type="line"/>
+      <point x="228" y="715" type="line"/>
+      <point x="228" y="748" type="line"/>
+      <point x="765" y="748" type="line"/>
+      <point x="775" y="555" type="line"/>
+      <point x="726" y="555" type="line"/>
+      <point x="701" y="709" type="line"/>
+      <point x="340" y="709" type="line"/>
+      <point x="575" y="333" type="line"/>
+      <point x="286" y="-75" type="line"/>
+      <point x="712" y="-75" type="line"/>
+      <point x="738" y="75" type="line"/>
+      <point x="786" y="75" type="line"/>
+      <point x="775" y="-142" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

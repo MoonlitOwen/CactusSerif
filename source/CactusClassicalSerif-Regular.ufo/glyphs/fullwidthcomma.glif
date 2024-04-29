@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fullwidthcomma" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FF0C"/>
+  <outline>
+    <contour>
+      <point x="440" y="261" type="qcurve"/>
+      <point x="423" y="291" type="line"/>
+      <point x="495" y="334"/>
+      <point x="513" y="413" type="qcurve"/>
+      <point x="441" y="445"/>
+      <point x="441" y="491" type="qcurve"/>
+      <point x="441" y="515"/>
+      <point x="472" y="548"/>
+      <point x="499" y="548" type="qcurve"/>
+      <point x="530" y="548"/>
+      <point x="566" y="503"/>
+      <point x="566" y="461" type="qcurve"/>
+      <point x="566" y="404"/>
+      <point x="539" y="354" type="qcurve"/>
+      <point x="506" y="293"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

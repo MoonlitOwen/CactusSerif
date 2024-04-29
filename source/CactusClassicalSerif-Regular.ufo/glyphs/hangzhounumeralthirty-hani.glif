@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hangzhounumeralthirty-hani" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="303A"/>
+  <outline>
+    <contour>
+      <point x="725" y="439" type="line"/>
+      <point x="725" y="833" type="line"/>
+      <point x="788" y="822" type="line"/>
+      <point x="804" y="812" type="line"/>
+      <point x="788" y="802" type="line"/>
+      <point x="788" y="439" type="line"/>
+      <point x="858" y="439" type="line"/>
+      <point x="909" y="491" type="line"/>
+      <point x="972" y="438" type="line"/>
+      <point x="972" y="418" type="line"/>
+      <point x="788" y="418" type="line"/>
+      <point x="788" y="-28" type="line"/>
+      <point x="725" y="-60" type="line"/>
+      <point x="725" y="418" type="line"/>
+      <point x="531" y="418" type="line"/>
+      <point x="531" y="-39" type="line"/>
+      <point x="469" y="-70" type="line"/>
+      <point x="469" y="418" type="line"/>
+      <point x="264" y="418" type="line"/>
+      <point x="264" y="-28" type="line"/>
+      <point x="202" y="-60" type="line"/>
+      <point x="202" y="418" type="line"/>
+      <point x="49" y="418" type="line"/>
+      <point x="49" y="439" type="line"/>
+      <point x="202" y="439" type="line"/>
+      <point x="202" y="833" type="line"/>
+      <point x="264" y="822" type="line"/>
+      <point x="280" y="812" type="line"/>
+      <point x="264" y="802" type="line"/>
+      <point x="264" y="439" type="line"/>
+      <point x="469" y="439" type="line"/>
+      <point x="469" y="833" type="line"/>
+      <point x="531" y="822" type="line"/>
+      <point x="547" y="812" type="line"/>
+      <point x="531" y="802" type="line"/>
+      <point x="531" y="439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

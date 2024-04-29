@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="2">
+  <advance width="350" height="1000"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="118" y="474"/>
+      <point x="80" y="510" type="qcurve"/>
+      <point x="40" y="548"/>
+      <point x="40" y="669"/>
+      <point x="80" y="708" type="qcurve"/>
+      <point x="119" y="746"/>
+      <point x="175" y="746" type="qcurve"/>
+      <point x="231" y="746"/>
+      <point x="270" y="708" type="qcurve"/>
+      <point x="310" y="669"/>
+      <point x="310" y="548"/>
+      <point x="270" y="510" type="qcurve"/>
+      <point x="232" y="474"/>
+    </contour>
+    <contour>
+      <point x="135" y="508"/>
+      <point x="215" y="508"/>
+      <point x="270" y="565"/>
+      <point x="270" y="652"/>
+      <point x="215" y="712"/>
+      <point x="175" y="712" type="qcurve"/>
+      <point x="136" y="712"/>
+      <point x="80" y="652"/>
+      <point x="80" y="565"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doubleverticalline" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2016"/>
+  <outline>
+    <contour>
+      <point x="408" y="-120" type="line"/>
+      <point x="408" y="880" type="line"/>
+      <point x="443" y="880" type="line"/>
+      <point x="443" y="-120" type="line"/>
+    </contour>
+    <contour>
+      <point x="557" y="-120" type="line"/>
+      <point x="557" y="880" type="line"/>
+      <point x="592" y="880" type="line"/>
+      <point x="592" y="-120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

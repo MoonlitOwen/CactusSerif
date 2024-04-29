@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reverseddoubleprimequotation" format="2">
+  <advance width="500" height="1000"/>
+  <unicode hex="301D"/>
+  <outline>
+    <contour>
+      <point x="426" y="462" type="line"/>
+      <point x="293" y="519"/>
+      <point x="160" y="576" type="qcurve"/>
+      <point x="136" y="589"/>
+      <point x="176" y="666"/>
+      <point x="203" y="650" type="qcurve"/>
+      <point x="224" y="635"/>
+      <point x="245" y="620" type="qcurve"/>
+      <point x="312" y="571"/>
+      <point x="435" y="478" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="454" y="663" type="line"/>
+      <point x="321" y="720"/>
+      <point x="188" y="777" type="qcurve"/>
+      <point x="164" y="790"/>
+      <point x="204" y="867"/>
+      <point x="231" y="851" type="qcurve"/>
+      <point x="252" y="836"/>
+      <point x="273" y="821" type="qcurve"/>
+      <point x="340" y="772"/>
+      <point x="463" y="679" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>868.697265625</real>
+    </dict>
+  </lib>
+</glyph>

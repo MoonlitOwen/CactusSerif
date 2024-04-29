@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tsquared" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="1F143"/>
+  <outline>
+    <contour>
+      <point x="55" y="-70" type="line"/>
+      <point x="55" y="830" type="line"/>
+      <point x="945" y="830" type="line"/>
+      <point x="945" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="-41" type="line"/>
+      <point x="915" y="-41" type="line"/>
+      <point x="915" y="801" type="line"/>
+      <point x="85" y="801" type="line"/>
+    </contour>
+    <contour>
+      <point x="378" y="134" type="line"/>
+      <point x="378" y="163" type="line"/>
+      <point x="466" y="169" type="line"/>
+      <point x="467" y="235"/>
+      <point x="467" y="371" type="qcurve"/>
+      <point x="467" y="406" type="line"/>
+      <point x="467" y="545"/>
+      <point x="466" y="613" type="qcurve"/>
+      <point x="320" y="613" type="line"/>
+      <point x="308" y="510" type="line"/>
+      <point x="270" y="510" type="line"/>
+      <point x="275" y="643" type="line"/>
+      <point x="726" y="643" type="line"/>
+      <point x="730" y="510" type="line"/>
+      <point x="692" y="510" type="line"/>
+      <point x="680" y="613" type="line"/>
+      <point x="534" y="613" type="line"/>
+      <point x="533" y="545"/>
+      <point x="533" y="406" type="qcurve"/>
+      <point x="533" y="371" type="line"/>
+      <point x="533" y="235"/>
+      <point x="534" y="168" type="qcurve"/>
+      <point x="622" y="163" type="line"/>
+      <point x="622" y="134" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

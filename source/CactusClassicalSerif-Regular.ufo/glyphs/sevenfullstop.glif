@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sevenfullstop" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="248E"/>
+  <outline>
+    <contour>
+      <point x="732" y="-13" type="qcurve"/>
+      <point x="705" y="-13"/>
+      <point x="669" y="24"/>
+      <point x="669" y="49" type="qcurve"/>
+      <point x="669" y="76"/>
+      <point x="705" y="113"/>
+      <point x="759" y="113"/>
+      <point x="796" y="76"/>
+      <point x="796" y="49" type="qcurve"/>
+      <point x="796" y="24"/>
+      <point x="759" y="-13"/>
+    </contour>
+    <contour>
+      <point x="316" y="0" type="line"/>
+      <point x="310" y="6" type="line"/>
+      <point x="624" y="675" type="line"/>
+      <point x="204" y="675" type="line"/>
+      <point x="204" y="748" type="line"/>
+      <point x="680" y="748" type="line"/>
+      <point x="680" y="701" type="line"/>
+      <point x="396" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>867</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ibar" format="2">
+  <advance width="404" height="1000"/>
+  <unicode hex="0197"/>
+  <outline>
+    <contour>
+      <point x="53" y="0" type="line"/>
+      <point x="53" y="29" type="line"/>
+      <point x="158" y="39" type="line"/>
+      <point x="160" y="137"/>
+      <point x="160" y="336" type="qcurve"/>
+      <point x="160" y="391" type="line"/>
+      <point x="56" y="391" type="line"/>
+      <point x="56" y="427" type="line"/>
+      <point x="160" y="427" type="line"/>
+      <point x="160" y="603"/>
+      <point x="158" y="690" type="qcurve"/>
+      <point x="53" y="699" type="line"/>
+      <point x="53" y="728" type="line"/>
+      <point x="350" y="728" type="line"/>
+      <point x="350" y="699" type="line"/>
+      <point x="245" y="690" type="line"/>
+      <point x="244" y="604"/>
+      <point x="244" y="427" type="qcurve"/>
+      <point x="352" y="427" type="line"/>
+      <point x="352" y="391" type="line"/>
+      <point x="244" y="391" type="line"/>
+      <point x="244" y="337" type="line"/>
+      <point x="244" y="137"/>
+      <point x="245" y="39" type="qcurve"/>
+      <point x="350" y="29" type="line"/>
+      <point x="350" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

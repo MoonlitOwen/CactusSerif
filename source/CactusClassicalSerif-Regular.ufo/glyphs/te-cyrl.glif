@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="te-cyrl" format="2">
+  <advance width="575" height="1000"/>
+  <unicode hex="0442"/>
+  <outline>
+    <contour>
+      <point x="155" y="0" type="line"/>
+      <point x="155" y="32" type="line"/>
+      <point x="248" y="45" type="line"/>
+      <point x="250" y="155"/>
+      <point x="250" y="228" type="qcurve"/>
+      <point x="250" y="286" type="line"/>
+      <point x="250" y="366"/>
+      <point x="248" y="476" type="qcurve"/>
+      <point x="103" y="476" type="line"/>
+      <point x="71" y="342" type="line"/>
+      <point x="29" y="342" type="line"/>
+      <point x="38" y="514" type="line"/>
+      <point x="536" y="514" type="line"/>
+      <point x="545" y="342" type="line"/>
+      <point x="503" y="342" type="line"/>
+      <point x="471" y="476" type="line"/>
+      <point x="327" y="476" type="line"/>
+      <point x="325" y="366"/>
+      <point x="325" y="286" type="qcurve"/>
+      <point x="325" y="228" type="line"/>
+      <point x="325" y="155"/>
+      <point x="327" y="45" type="qcurve"/>
+      <point x="420" y="32" type="line"/>
+      <point x="420" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

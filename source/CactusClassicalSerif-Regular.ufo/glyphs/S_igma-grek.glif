@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma-grek" format="2">
+  <advance width="591" height="1000"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="25" y="51" type="line"/>
+      <point x="276" y="363" type="line"/>
+      <point x="38" y="696" type="line"/>
+      <point x="38" y="729" type="line"/>
+      <point x="530" y="729" type="line"/>
+      <point x="538" y="539" type="line"/>
+      <point x="485" y="539" type="line"/>
+      <point x="454" y="685" type="line"/>
+      <point x="136" y="685" type="line"/>
+      <point x="351" y="385" type="line"/>
+      <point x="103" y="75" type="line"/>
+      <point x="476" y="75" type="line"/>
+      <point x="504" y="218" type="line"/>
+      <point x="558" y="218" type="line"/>
+      <point x="550" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glyph32280" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="20E4A"/>
+  <outline>
+    <contour>
+      <point x="478" y="581" type="line"/>
+      <point x="777" y="581" type="line"/>
+      <point x="810" y="606" type="line"/>
+      <point x="867" y="560" type="line"/>
+      <point x="841" y="539" type="line"/>
+      <point x="841" y="255" type="line"/>
+      <point x="777" y="255" type="line"/>
+      <point x="777" y="297" type="line"/>
+      <point x="665" y="297" type="line"/>
+      <point x="665" y="161" type="line"/>
+      <point x="830" y="161" type="line"/>
+      <point x="882" y="213" type="line"/>
+      <point x="945" y="161" type="line"/>
+      <point x="945" y="140" type="line"/>
+      <point x="665" y="140" type="line"/>
+      <point x="665" y="-60" type="line"/>
+      <point x="602" y="-60" type="line"/>
+      <point x="602" y="140" type="line"/>
+      <point x="333" y="140" type="line"/>
+      <point x="333" y="161" type="line"/>
+      <point x="602" y="161" type="line"/>
+      <point x="602" y="297" type="line"/>
+      <point x="478" y="297" type="line"/>
+      <point x="478" y="250" type="line"/>
+      <point x="415" y="250" type="line"/>
+      <point x="415" y="612" type="line"/>
+    </contour>
+    <contour>
+      <point x="139" y="717" type="line"/>
+      <point x="243" y="717" type="line"/>
+      <point x="274" y="743" type="line"/>
+      <point x="333" y="696" type="line"/>
+      <point x="307" y="675" type="line"/>
+      <point x="307" y="140" type="line"/>
+      <point x="243" y="140" type="line"/>
+      <point x="243" y="213" type="line"/>
+      <point x="139" y="213" type="line"/>
+      <point x="139" y="98" type="line"/>
+      <point x="75" y="98" type="line"/>
+      <point x="75" y="749" type="line"/>
+    </contour>
+    <contour>
+      <point x="139" y="696" type="line"/>
+      <point x="139" y="234" type="line"/>
+      <point x="243" y="234" type="line"/>
+      <point x="243" y="696" type="line"/>
+    </contour>
+    <contour>
+      <point x="478" y="434" type="line"/>
+      <point x="478" y="318" type="line"/>
+      <point x="777" y="318" type="line"/>
+      <point x="777" y="434" type="line"/>
+    </contour>
+    <contour>
+      <point x="478" y="560" type="line"/>
+      <point x="478" y="455" type="line"/>
+      <point x="777" y="455" type="line"/>
+      <point x="777" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="534" y="827" type="line"/>
+      <point x="551" y="816" type="line"/>
+      <point x="534" y="807" type="line"/>
+      <point x="534" y="724" type="line"/>
+      <point x="564" y="724" type="line"/>
+      <point x="597" y="760" type="line"/>
+      <point x="639" y="724" type="line"/>
+      <point x="639" y="702" type="line"/>
+      <point x="534" y="702" type="line"/>
+      <point x="534" y="604" type="line"/>
+      <point x="472" y="604" type="line"/>
+      <point x="472" y="702" type="line"/>
+      <point x="345" y="702" type="line"/>
+      <point x="345" y="724" type="line"/>
+      <point x="472" y="724" type="line"/>
+      <point x="472" y="837" type="line"/>
+    </contour>
+    <contour>
+      <point x="773" y="827" type="line"/>
+      <point x="789" y="816" type="line"/>
+      <point x="773" y="807" type="line"/>
+      <point x="773" y="724" type="line"/>
+      <point x="830" y="724" type="line"/>
+      <point x="882" y="776" type="line"/>
+      <point x="945" y="724" type="line"/>
+      <point x="945" y="702" type="line"/>
+      <point x="773" y="702" type="line"/>
+      <point x="773" y="604" type="line"/>
+      <point x="710" y="604" type="line"/>
+      <point x="710" y="702" type="line"/>
+      <point x="662" y="702" type="line"/>
+      <point x="662" y="724" type="line"/>
+      <point x="710" y="724" type="line"/>
+      <point x="710" y="837" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

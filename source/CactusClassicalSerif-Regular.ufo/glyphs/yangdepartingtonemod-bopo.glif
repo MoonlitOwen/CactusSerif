@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yangdepartingtonemod-bopo" format="2">
+  <advance width="600" height="1000"/>
+  <unicode hex="02EB"/>
+  <outline>
+    <contour>
+      <point x="93" y="398" type="line"/>
+      <point x="93" y="830" type="line"/>
+      <point x="135" y="830" type="line"/>
+      <point x="135" y="651" type="line"/>
+      <point x="512" y="651" type="line"/>
+      <point x="512" y="589" type="line"/>
+      <point x="135" y="589" type="line"/>
+      <point x="135" y="398" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
