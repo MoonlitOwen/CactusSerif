@@ -17,7 +17,7 @@
 
 另有特殊版本「簡繁轉換版」，收錄字數較少，方便把簡體文件顯示成繁體中文。但它包含的字符都比較少，請確定有必要才使用它。此版本以[GuiWonder開發的「中文字型簡繁處理工具」](https://github.com/GuiWonder/TCFontCreator)製作。
 
-🌕 [仙人掌明體（簡轉轉換） Cactus Serif Sim-to-Trad 下載](fonts/CactusSerifSimtoTrad.0tf) 🌕
+🌕 [仙人掌明體（簡轉轉換） Cactus Serif Sim-to-Trad 下載](fonts/CactusSerifSimtoTrad.otf) 🌕
 
 ## 🌕製作說明
 
