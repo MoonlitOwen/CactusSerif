@@ -21,7 +21,9 @@
 
 ## 🌕製作說明
 
-本字型由Henry Chan繪製主要字圖，田海東主力製作，宇文滿月參與修改，以應付屏顯和排印之需。
+本字型由Henry Chan繪製主要字圖，[田海東](https://github.com/jisbig5)主力製作，宇文滿月參與修改，以應付屏顯和排印之需。
+
+本字型借用了[Steve Yuu](https://github.com/Steve-Yuu)、[But Ko](https://github.com/ButTaiwan/)的開源貢獻而製作。
 
 礙於人力、時間等限制，本字型尚有不少地方有待高賢不吝賜正，敬祈見諒。
 
@@ -40,3 +42,8 @@
 * [思源宋體（Source Han Serif /Noto Serif CJK）的日文和韓文版](https://github.com/adobe-fonts/source-han-serif/)
 * [中文字型簡繁處理工具（TC Font Creator）](https://github.com/GuiWonder/TCFontCreator)
 * [繁媛明朝（Fan Wun Ming）](https://github.com/ayaka14732/FanWunMing)
+* [Y式源明朝體（Yshi-YuanMincho）](https://github.com/Steve-Yuu/Yshi-YuanMincho)
+* [秋空󠄁明朝（ChiuKong Mincho）](https://github.com/ChiuMing-Neko/ChiuKongMincho)
+* [初夏明朝體（Early Summer Mincho）](https://github.com/GuiWonder/EarlySummerMincho)
+* [尚古明體（Shanggu Serif）](https://github.com/GuiWonder/Shanggu)
+* [華英明朝（Huaying Mincho）](https://github.com/GuiWonder/HuayingMincho)
