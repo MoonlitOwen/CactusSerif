@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whitesquarewithroundedcorners" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="25A2"/>
+  <outline>
+    <contour>
+      <point x="145" y="-80" type="qcurve"/>
+      <point x="855" y="-80" type="line"/>
+      <point x="899" y="-80"/>
+      <point x="960" y="-19"/>
+      <point x="960" y="25" type="qcurve"/>
+      <point x="960" y="735" type="line"/>
+      <point x="960" y="779"/>
+      <point x="899" y="840"/>
+      <point x="855" y="840" type="qcurve"/>
+      <point x="145" y="840" type="line"/>
+      <point x="102" y="840"/>
+      <point x="40" y="779"/>
+      <point x="40" y="735" type="qcurve"/>
+      <point x="40" y="25" type="line"/>
+      <point x="40" y="-19"/>
+      <point x="102" y="-80"/>
+    </contour>
+    <contour>
+      <point x="145" y="-40" type="line"/>
+      <point x="118" y="-40"/>
+      <point x="80" y="-2"/>
+      <point x="80" y="25" type="qcurve"/>
+      <point x="80" y="735" type="line"/>
+      <point x="80" y="762"/>
+      <point x="118" y="800"/>
+      <point x="145" y="800" type="qcurve"/>
+      <point x="855" y="800" type="line"/>
+      <point x="882" y="800"/>
+      <point x="920" y="762"/>
+      <point x="920" y="735" type="qcurve"/>
+      <point x="920" y="25" type="line"/>
+      <point x="920" y="-2"/>
+      <point x="882" y="-40"/>
+      <point x="855" y="-40" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cjkradicalknifetwo-hani" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2E89"/>
+  <outline>
+    <contour>
+      <point x="728" y="-79" type="qcurve"/>
+      <point x="802" y="-71"/>
+      <point x="827" y="-45" type="qcurve"/>
+      <point x="847" y="-24"/>
+      <point x="847" y="23" type="qcurve"/>
+      <point x="847" y="797" type="line"/>
+      <point x="880" y="802"/>
+      <point x="883" y="825" type="qcurve"/>
+      <point x="781" y="836" type="line"/>
+      <point x="781" y="30" type="line"/>
+      <point x="781" y="16"/>
+      <point x="768" y="5"/>
+      <point x="751" y="5" type="qcurve"/>
+      <point x="671" y="10"/>
+      <point x="591" y="15" type="qcurve"/>
+      <point x="591" y="-1" type="line"/>
+      <point x="667" y="-10"/>
+      <point x="699" y="-29" type="qcurve"/>
+      <point x="721" y="-43"/>
+    </contour>
+    <contour>
+      <point x="542" y="165" type="line"/>
+      <point x="554" y="165" type="line"/>
+      <point x="571" y="165"/>
+      <point x="607" y="181"/>
+      <point x="607" y="188" type="qcurve"/>
+      <point x="607" y="710" type="line"/>
+      <point x="639" y="714"/>
+      <point x="644" y="737" type="qcurve"/>
+      <point x="542" y="748" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

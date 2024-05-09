@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thereexists" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2203"/>
+  <outline>
+    <contour>
+      <point x="200" y="23" type="line"/>
+      <point x="790" y="23" type="line"/>
+      <point x="790" y="713" type="line"/>
+      <point x="200" y="713" type="line"/>
+      <point x="200" y="669" type="line"/>
+      <point x="746" y="669" type="line"/>
+      <point x="746" y="395" type="line"/>
+      <point x="200" y="395" type="line"/>
+      <point x="200" y="351" type="line"/>
+      <point x="746" y="351" type="line"/>
+      <point x="746" y="67" type="line"/>
+      <point x="200" y="67" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

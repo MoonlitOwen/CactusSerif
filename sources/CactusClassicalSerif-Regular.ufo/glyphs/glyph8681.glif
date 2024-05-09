@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph8681" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="4E59"/>
+  <outline>
+    <contour>
+      <point x="867" y="-7" type="line"/>
+      <point x="893" y="5" type="line"/>
+      <point x="898" y="24" type="line"/>
+      <point x="893" y="43" type="line"/>
+      <point x="868" y="56" type="line"/>
+      <point x="879" y="187" type="line"/>
+      <point x="868" y="187" type="line"/>
+      <point x="837" y="56" type="line"/>
+      <point x="343" y="60" type="line"/>
+      <point x="287" y="62" type="line"/>
+      <point x="244" y="68" type="line"/>
+      <point x="215" y="78" type="line"/>
+      <point x="197" y="88" type="line"/>
+      <point x="190" y="98" type="line"/>
+      <point x="188" y="109" type="line"/>
+      <point x="193" y="129" type="line"/>
+      <point x="208" y="157" type="line"/>
+      <point x="232" y="192" type="line"/>
+      <point x="271" y="233" type="line"/>
+      <point x="694" y="669" type="line"/>
+      <point x="721" y="681" type="line"/>
+      <point x="747" y="696" type="line"/>
+      <point x="689" y="743" type="line"/>
+      <point x="657" y="717" type="line"/>
+      <point x="164" y="717" type="line"/>
+      <point x="164" y="696" type="line"/>
+      <point x="635" y="696" type="line"/>
+      <point x="225" y="277" type="line"/>
+      <point x="185" y="232" type="line"/>
+      <point x="154" y="190" type="line"/>
+      <point x="134" y="151" type="line"/>
+      <point x="125" y="112" type="line"/>
+      <point x="132" y="73" type="line"/>
+      <point x="154" y="41" type="line"/>
+      <point x="188" y="21" type="line"/>
+      <point x="230" y="7" type="line"/>
+      <point x="281" y="-1" type="line"/>
+      <point x="342" y="-4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:08 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

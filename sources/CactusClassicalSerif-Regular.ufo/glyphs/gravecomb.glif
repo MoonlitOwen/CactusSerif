@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <advance width="0" height="1000"/>
+  <unicode hex="0300"/>
+  <outline>
+    <contour>
+      <point x="-161" y="609" type="qcurve"/>
+      <point x="-143" y="623" type="line"/>
+      <point x="-169" y="660"/>
+      <point x="-220" y="738" type="qcurve"/>
+      <point x="-234" y="760"/>
+      <point x="-242" y="772" type="qcurve"/>
+      <point x="-271" y="816"/>
+      <point x="-295" y="816" type="qcurve"/>
+      <point x="-309" y="816"/>
+      <point x="-330" y="798"/>
+      <point x="-330" y="783" type="qcurve"/>
+      <point x="-330" y="761"/>
+      <point x="-287" y="724" type="qcurve"/>
+      <point x="-242" y="686"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 19:34:36 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

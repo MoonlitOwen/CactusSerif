@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph9968" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="5363"/>
+  <outline>
+    <contour>
+      <point x="133" y="-60" type="line"/>
+      <point x="195" y="-60" type="line"/>
+      <point x="195" y="3" type="line"/>
+      <point x="805" y="3" type="line"/>
+      <point x="805" y="-60" type="line"/>
+      <point x="867" y="-60" type="line"/>
+      <point x="867" y="528" type="line"/>
+      <point x="894" y="549" type="line"/>
+      <point x="836" y="597" type="line"/>
+      <point x="805" y="570" type="line"/>
+      <point x="531" y="570" type="line"/>
+      <point x="531" y="686" type="line"/>
+      <point x="889" y="686" type="line"/>
+      <point x="889" y="707" type="line"/>
+      <point x="825" y="759" type="line"/>
+      <point x="773" y="707" type="line"/>
+      <point x="531" y="707" type="line"/>
+      <point x="531" y="797" type="line"/>
+      <point x="547" y="807" type="line"/>
+      <point x="531" y="817" type="line"/>
+      <point x="469" y="827" type="line"/>
+      <point x="469" y="570" type="line"/>
+      <point x="195" y="570" type="line"/>
+      <point x="133" y="602" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="24" type="line"/>
+      <point x="195" y="192" type="line"/>
+      <point x="500" y="192" type="line"/>
+      <point x="500" y="140" type="line"/>
+      <point x="563" y="140" type="line"/>
+      <point x="563" y="360" type="line"/>
+      <point x="589" y="381" type="line"/>
+      <point x="531" y="429" type="line"/>
+      <point x="500" y="402" type="line"/>
+      <point x="195" y="402" type="line"/>
+      <point x="195" y="549" type="line"/>
+      <point x="805" y="549" type="line"/>
+      <point x="805" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="213" type="line"/>
+      <point x="195" y="381" type="line"/>
+      <point x="500" y="381" type="line"/>
+      <point x="500" y="213" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:08 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

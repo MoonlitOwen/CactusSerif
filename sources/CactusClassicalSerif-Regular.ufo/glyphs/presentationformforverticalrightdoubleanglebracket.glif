@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="presentationformforverticalrightdoubleanglebracket" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE3E"/>
+  <outline>
+    <contour>
+      <point x="500" y="545" type="line"/>
+      <point x="966" y="813" type="line"/>
+      <point x="948" y="842" type="line"/>
+      <point x="500" y="585" type="line"/>
+      <point x="52" y="842" type="line"/>
+      <point x="34" y="813" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="403" type="line"/>
+      <point x="966" y="670" type="line"/>
+      <point x="948" y="699" type="line"/>
+      <point x="500" y="443" type="line"/>
+      <point x="52" y="699" type="line"/>
+      <point x="34" y="670" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:20 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ishort-cyrl" format="2">
+  <advance width="699" height="1000"/>
+  <unicode hex="0439"/>
+  <outline>
+    <contour>
+      <point x="49" y="0" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="290" y="32" type="line"/>
+      <point x="204" y="45" type="line"/>
+      <point x="204" y="73" type="line"/>
+      <point x="495" y="390" type="line"/>
+      <point x="495" y="45" type="line"/>
+      <point x="409" y="32" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="650" y="0" type="line"/>
+      <point x="650" y="32" type="line"/>
+      <point x="570" y="44" type="line"/>
+      <point x="567" y="128"/>
+      <point x="567" y="228" type="qcurve"/>
+      <point x="567" y="286" type="line"/>
+      <point x="567" y="388"/>
+      <point x="570" y="470" type="qcurve"/>
+      <point x="650" y="483" type="line"/>
+      <point x="650" y="514" type="line"/>
+      <point x="409" y="514" type="line"/>
+      <point x="409" y="483" type="line"/>
+      <point x="495" y="469" type="line"/>
+      <point x="495" y="444" type="line"/>
+      <point x="204" y="127" type="line"/>
+      <point x="204" y="469" type="line"/>
+      <point x="290" y="483" type="line"/>
+      <point x="290" y="514" type="line"/>
+      <point x="49" y="514" type="line"/>
+      <point x="49" y="483" type="line"/>
+      <point x="129" y="470" type="line"/>
+      <point x="132" y="388"/>
+      <point x="132" y="286" type="qcurve"/>
+      <point x="132" y="228" type="line"/>
+      <point x="132" y="128"/>
+      <point x="129" y="44" type="qcurve"/>
+      <point x="49" y="32" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="654" type="qcurve"/>
+      <point x="302" y="654"/>
+      <point x="266" y="684" type="qcurve"/>
+      <point x="271" y="712"/>
+      <point x="271" y="744" type="qcurve"/>
+      <point x="271" y="773"/>
+      <point x="257" y="789" type="qcurve"/>
+      <point x="245" y="803"/>
+      <point x="225" y="803" type="qcurve"/>
+      <point x="197" y="803"/>
+      <point x="186" y="777" type="qcurve"/>
+      <point x="186" y="709"/>
+      <point x="233" y="665" type="qcurve"/>
+      <point x="281" y="619"/>
+      <point x="439" y="619"/>
+      <point x="488" y="665" type="qcurve"/>
+      <point x="535" y="709"/>
+      <point x="535" y="777" type="qcurve"/>
+      <point x="523" y="803"/>
+      <point x="495" y="803" type="qcurve"/>
+      <point x="476" y="803"/>
+      <point x="464" y="789" type="qcurve"/>
+      <point x="450" y="773"/>
+      <point x="450" y="744" type="qcurve"/>
+      <point x="450" y="707"/>
+      <point x="454" y="684" type="qcurve"/>
+      <point x="417" y="654"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

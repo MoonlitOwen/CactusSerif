@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph25613" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="909B"/>
+  <outline>
+    <contour>
+      <point x="519" y="-60" type="line"/>
+      <point x="581" y="-60" type="line"/>
+      <point x="581" y="738" type="line"/>
+      <point x="794" y="738" type="line"/>
+      <point x="794" y="737" type="line"/>
+      <point x="777" y="689" type="line"/>
+      <point x="767" y="664" type="line"/>
+      <point x="740" y="608" type="line"/>
+      <point x="674" y="479" type="line"/>
+      <point x="682" y="473" type="line"/>
+      <point x="683" y="474" type="line"/>
+      <point x="732" y="440" type="line"/>
+      <point x="773" y="406" type="line"/>
+      <point x="805" y="372" type="line"/>
+      <point x="827" y="337" type="line"/>
+      <point x="841" y="302" type="line"/>
+      <point x="848" y="268" type="line"/>
+      <point x="849" y="236" type="line"/>
+      <point x="845" y="208" type="line"/>
+      <point x="836" y="186" type="line"/>
+      <point x="825" y="169" type="line"/>
+      <point x="815" y="158" type="line"/>
+      <point x="810" y="154" type="line"/>
+      <point x="805" y="150" type="line"/>
+      <point x="799" y="147" type="line"/>
+      <point x="793" y="145" type="line"/>
+      <point x="780" y="142" type="line"/>
+      <point x="773" y="141" type="line"/>
+      <point x="765" y="140" type="line"/>
+      <point x="702" y="140" type="line"/>
+      <point x="702" y="124" type="line"/>
+      <point x="765" y="108" type="line"/>
+      <point x="765" y="76" type="line"/>
+      <point x="778" y="77" type="line"/>
+      <point x="791" y="79" type="line"/>
+      <point x="803" y="82" type="line"/>
+      <point x="815" y="86" type="line"/>
+      <point x="826" y="90" type="line"/>
+      <point x="838" y="97" type="line"/>
+      <point x="857" y="112" type="line"/>
+      <point x="866" y="121" type="line"/>
+      <point x="875" y="131" type="line"/>
+      <point x="892" y="162" type="line"/>
+      <point x="901" y="197" type="line"/>
+      <point x="904" y="235" type="line"/>
+      <point x="900" y="276" type="line"/>
+      <point x="888" y="317" type="line"/>
+      <point x="866" y="359" type="line"/>
+      <point x="837" y="398" type="line"/>
+      <point x="797" y="434" type="line"/>
+      <point x="746" y="464" type="line"/>
+      <point x="689" y="481" type="line"/>
+      <point x="708" y="502" type="line"/>
+      <point x="732" y="531" type="line"/>
+      <point x="774" y="588" type="line"/>
+      <point x="810" y="641" type="line"/>
+      <point x="838" y="691" type="line"/>
+      <point x="851" y="718" type="line"/>
+      <point x="861" y="723" type="line"/>
+      <point x="888" y="738" type="line"/>
+      <point x="830" y="785" type="line"/>
+      <point x="798" y="759" type="line"/>
+      <point x="581" y="759" type="line"/>
+      <point x="519" y="791" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="108" type="line"/>
+      <point x="100" y="128" type="line"/>
+      <point x="114" y="132" type="line"/>
+      <point x="265" y="184" type="line"/>
+      <point x="388" y="229" type="line"/>
+      <point x="474" y="267" type="line"/>
+      <point x="471" y="275" type="line"/>
+      <point x="425" y="267" type="line"/>
+      <point x="288" y="234" type="line"/>
+      <point x="288" y="659" type="line"/>
+      <point x="460" y="659" type="line"/>
+      <point x="460" y="681" type="line"/>
+      <point x="396" y="732" type="line"/>
+      <point x="344" y="681" type="line"/>
+      <point x="72" y="681" type="line"/>
+      <point x="72" y="659" type="line"/>
+      <point x="225" y="659" type="line"/>
+      <point x="225" y="220" type="line"/>
+      <point x="53" y="180" type="line"/>
+      <point x="79" y="121" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:17 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s" format="2">
+  <advance width="470" height="1000"/>
+  <unicode hex="0073"/>
+  <outline>
+    <contour>
+      <point x="218" y="-14" type="qcurve"/>
+      <point x="315" y="-14"/>
+      <point x="372" y="32" type="qcurve"/>
+      <point x="423" y="74"/>
+      <point x="423" y="137" type="qcurve"/>
+      <point x="423" y="188"/>
+      <point x="390" y="225" type="qcurve"/>
+      <point x="355" y="262"/>
+      <point x="277" y="291" type="qcurve"/>
+      <point x="238" y="305" type="line"/>
+      <point x="180" y="327"/>
+      <point x="159" y="346" type="qcurve"/>
+      <point x="136" y="368"/>
+      <point x="136" y="443"/>
+      <point x="164" y="465" type="qcurve"/>
+      <point x="193" y="488"/>
+      <point x="246" y="488" type="qcurve"/>
+      <point x="290" y="488"/>
+      <point x="330" y="466" type="qcurve"/>
+      <point x="348" y="377" type="line"/>
+      <point x="392" y="377" type="line"/>
+      <point x="396" y="485" type="line"/>
+      <point x="322" y="528"/>
+      <point x="246" y="528" type="qcurve"/>
+      <point x="161" y="528"/>
+      <point x="110" y="484" type="qcurve"/>
+      <point x="63" y="443"/>
+      <point x="63" y="382" type="qcurve"/>
+      <point x="63" y="285"/>
+      <point x="195" y="237" type="qcurve"/>
+      <point x="245" y="218" type="line"/>
+      <point x="301" y="197"/>
+      <point x="324" y="176" type="qcurve"/>
+      <point x="349" y="153"/>
+      <point x="349" y="117" type="qcurve"/>
+      <point x="349" y="75"/>
+      <point x="317" y="51" type="qcurve"/>
+      <point x="283" y="26"/>
+      <point x="218" y="26" type="qcurve"/>
+      <point x="167" y="26"/>
+      <point x="124" y="45" type="qcurve"/>
+      <point x="102" y="142" type="line"/>
+      <point x="54" y="142" type="line"/>
+      <point x="58" y="25" type="line"/>
+      <point x="141" y="-14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

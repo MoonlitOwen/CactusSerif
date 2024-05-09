@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E-cyrl" format="2">
+  <advance width="669" height="1000"/>
+  <unicode hex="042D"/>
+  <outline>
+    <contour>
+      <point x="270" y="-16" type="qcurve"/>
+      <point x="433" y="-16"/>
+      <point x="524" y="87" type="qcurve"/>
+      <point x="613" y="188"/>
+      <point x="613" y="542"/>
+      <point x="522" y="643" type="qcurve"/>
+      <point x="430" y="746"/>
+      <point x="268" y="746" type="qcurve"/>
+      <point x="154" y="746"/>
+      <point x="60" y="692" type="qcurve"/>
+      <point x="58" y="535" type="line"/>
+      <point x="112" y="535" type="line"/>
+      <point x="136" y="672" type="line"/>
+      <point x="191" y="701"/>
+      <point x="264" y="701" type="qcurve"/>
+      <point x="385" y="701"/>
+      <point x="452" y="624" type="qcurve"/>
+      <point x="519" y="545"/>
+      <point x="525" y="390" type="qcurve"/>
+      <point x="291" y="390" type="line"/>
+      <point x="277" y="498" type="line"/>
+      <point x="236" y="498" type="line"/>
+      <point x="236" y="245" type="line"/>
+      <point x="277" y="245" type="line"/>
+      <point x="290" y="350" type="line"/>
+      <point x="525" y="350" type="line"/>
+      <point x="522" y="190"/>
+      <point x="455" y="108" type="qcurve"/>
+      <point x="390" y="29"/>
+      <point x="272" y="29" type="qcurve"/>
+      <point x="192" y="29"/>
+      <point x="129" y="60" type="qcurve"/>
+      <point x="104" y="196" type="line"/>
+      <point x="50" y="196" type="line"/>
+      <point x="53" y="38" type="line"/>
+      <point x="150" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

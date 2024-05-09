@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2022"/>
+  <unicode hex="2027"/>
+  <outline>
+    <contour>
+      <point x="500" y="322" type="qcurve"/>
+      <point x="525" y="322"/>
+      <point x="558" y="355"/>
+      <point x="558" y="405"/>
+      <point x="525" y="438"/>
+      <point x="500" y="438" type="qcurve"/>
+      <point x="475" y="438"/>
+      <point x="442" y="405"/>
+      <point x="442" y="355"/>
+      <point x="475" y="322"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

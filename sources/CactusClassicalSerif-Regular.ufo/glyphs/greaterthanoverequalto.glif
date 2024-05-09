@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterthanoverequalto" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2267"/>
+  <outline>
+    <contour>
+      <point x="137" y="227" type="line"/>
+      <point x="887" y="531" type="line"/>
+      <point x="887" y="533" type="line"/>
+      <point x="137" y="837" type="line"/>
+      <point x="120" y="797" type="line"/>
+      <point x="773" y="533" type="line"/>
+      <point x="773" y="531" type="line"/>
+      <point x="120" y="267" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="-34" type="line"/>
+      <point x="880" y="-34" type="line"/>
+      <point x="880" y="10" type="line"/>
+      <point x="120" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="104" type="line"/>
+      <point x="880" y="104" type="line"/>
+      <point x="880" y="148" type="line"/>
+      <point x="120" y="148" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

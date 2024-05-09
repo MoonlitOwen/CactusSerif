@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fullwidthfullstop" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FF0E"/>
+  <outline>
+    <contour>
+      <point x="437" y="383" type="qcurve"/>
+      <point x="437" y="358"/>
+      <point x="473" y="321"/>
+      <point x="527" y="321"/>
+      <point x="563" y="358"/>
+      <point x="563" y="383" type="qcurve"/>
+      <point x="563" y="410"/>
+      <point x="527" y="447"/>
+      <point x="500" y="447" type="qcurve"/>
+      <point x="473" y="447"/>
+      <point x="437" y="410"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:20 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

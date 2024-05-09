@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="openbox" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2423"/>
+  <outline>
+    <contour>
+      <point x="126" y="-100" type="line"/>
+      <point x="874" y="-100" type="line"/>
+      <point x="874" y="107" type="line"/>
+      <point x="830" y="107" type="line"/>
+      <point x="830" y="-57" type="line"/>
+      <point x="170" y="-57" type="line"/>
+      <point x="170" y="107" type="line"/>
+      <point x="126" y="107" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

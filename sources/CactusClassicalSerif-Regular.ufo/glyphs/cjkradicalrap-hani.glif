@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cjkradicalrap-hani" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2E99"/>
+  <outline>
+    <contour>
+      <point x="895" y="-77" type="qcurve"/>
+      <point x="909" y="-30"/>
+      <point x="962" y="-24" type="qcurve"/>
+      <point x="964" y="-13" type="line"/>
+      <point x="708" y="58"/>
+      <point x="541" y="203" type="qcurve"/>
+      <point x="690" y="358"/>
+      <point x="758" y="586" type="qcurve"/>
+      <point x="921" y="586" type="line"/>
+      <point x="945" y="586"/>
+      <point x="949" y="602" type="qcurve"/>
+      <point x="925" y="623"/>
+      <point x="887" y="654" type="qcurve"/>
+      <point x="870" y="667"/>
+      <point x="853" y="680" type="qcurve"/>
+      <point x="801" y="616" type="line"/>
+      <point x="350" y="616" type="line"/>
+      <point x="400" y="693"/>
+      <point x="440" y="781" type="qcurve"/>
+      <point x="471" y="777"/>
+      <point x="480" y="797" type="qcurve"/>
+      <point x="377" y="838" type="line"/>
+      <point x="324" y="690"/>
+      <point x="239" y="554" type="qcurve"/>
+      <point x="158" y="425"/>
+      <point x="68" y="339" type="qcurve"/>
+      <point x="81" y="327" type="line"/>
+      <point x="189" y="403"/>
+      <point x="285" y="524" type="qcurve"/>
+      <point x="351" y="337"/>
+      <point x="464" y="204" type="qcurve"/>
+      <point x="302" y="37"/>
+      <point x="45" y="-59" type="qcurve"/>
+      <point x="52" y="-74" type="line"/>
+      <point x="329" y="7"/>
+      <point x="501" y="164" type="qcurve"/>
+      <point x="650" y="8"/>
+    </contour>
+    <contour>
+      <point x="498" y="243" type="qcurve"/>
+      <point x="373" y="367"/>
+      <point x="300" y="544" type="qcurve"/>
+      <point x="315" y="565"/>
+      <point x="330" y="586" type="qcurve"/>
+      <point x="676" y="586" type="line"/>
+      <point x="624" y="392"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

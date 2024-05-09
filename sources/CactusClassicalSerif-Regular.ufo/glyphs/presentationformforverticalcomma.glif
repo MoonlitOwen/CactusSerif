@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="presentationformforverticalcomma" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE10"/>
+  <outline>
+    <contour>
+      <point x="756" y="476" type="line"/>
+      <point x="828" y="511"/>
+      <point x="864" y="578" type="qcurve"/>
+      <point x="893" y="632"/>
+      <point x="893" y="696" type="qcurve"/>
+      <point x="893" y="738"/>
+      <point x="854" y="791"/>
+      <point x="819" y="791" type="qcurve"/>
+      <point x="789" y="791"/>
+      <point x="771" y="773" type="qcurve"/>
+      <point x="754" y="755"/>
+      <point x="754" y="730" type="qcurve"/>
+      <point x="754" y="697"/>
+      <point x="783" y="676" type="qcurve"/>
+      <point x="800" y="663"/>
+      <point x="842" y="648" type="qcurve"/>
+      <point x="843" y="647" type="line"/>
+      <point x="835" y="555"/>
+      <point x="740" y="502" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:20 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

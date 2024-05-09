@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="halfwidthrightcornerbracket" format="2">
+  <advance width="500" height="1000"/>
+  <unicode hex="FF63"/>
+  <outline>
+    <contour>
+      <point x="37" y="-83" type="line"/>
+      <point x="343" y="-83" type="line"/>
+      <point x="343" y="567" type="line"/>
+      <point x="306" y="567" type="line"/>
+      <point x="306" y="-47" type="line"/>
+      <point x="37" y="-47" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:21 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

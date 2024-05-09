@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ntilde" format="2">
+  <advance width="798" height="1000"/>
+  <unicode hex="00D1"/>
+  <outline>
+    <contour>
+      <point x="628" y="-8" type="line"/>
+      <point x="661" y="-8" type="line"/>
+      <point x="662" y="681" type="line"/>
+      <point x="755" y="694" type="line"/>
+      <point x="755" y="729" type="line"/>
+      <point x="499" y="729" type="line"/>
+      <point x="499" y="694" type="line"/>
+      <point x="616" y="680" type="line"/>
+      <point x="617" y="150" type="line"/>
+      <point x="203" y="729" type="line"/>
+      <point x="47" y="729" type="line"/>
+      <point x="47" y="695" type="line"/>
+      <point x="129" y="685" type="line"/>
+      <point x="138" y="672" type="line"/>
+      <point x="137" y="48" type="line"/>
+      <point x="43" y="36" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="300" y="36" type="line"/>
+      <point x="184" y="49" type="line"/>
+      <point x="183" y="609" type="line"/>
+    </contour>
+    <contour>
+      <point x="485" y="782" type="qcurve"/>
+      <point x="574" y="782"/>
+      <point x="596" y="913" type="qcurve"/>
+      <point x="570" y="921" type="line"/>
+      <point x="542" y="835"/>
+      <point x="494" y="835" type="qcurve"/>
+      <point x="475" y="835"/>
+      <point x="456" y="847" type="qcurve"/>
+      <point x="445" y="855"/>
+      <point x="424" y="875" type="qcurve"/>
+      <point x="416" y="882"/>
+      <point x="412" y="886" type="qcurve"/>
+      <point x="367" y="925"/>
+      <point x="323" y="925" type="qcurve"/>
+      <point x="233" y="925"/>
+      <point x="213" y="794" type="qcurve"/>
+      <point x="239" y="786" type="line"/>
+      <point x="265" y="872"/>
+      <point x="315" y="872" type="qcurve"/>
+      <point x="334" y="872"/>
+      <point x="353" y="859" type="qcurve"/>
+      <point x="365" y="852"/>
+      <point x="386" y="831" type="qcurve"/>
+      <point x="393" y="824"/>
+      <point x="397" y="821" type="qcurve"/>
+      <point x="442" y="782"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

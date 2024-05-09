@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Asquared" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="1F130"/>
+  <outline>
+    <contour>
+      <point x="55" y="-70" type="line"/>
+      <point x="945" y="-70" type="line"/>
+      <point x="945" y="830" type="line"/>
+      <point x="55" y="830" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="-41" type="line"/>
+      <point x="85" y="801" type="line"/>
+      <point x="915" y="801" type="line"/>
+      <point x="915" y="-41" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="134" type="line"/>
+      <point x="401" y="134" type="line"/>
+      <point x="401" y="163" type="line"/>
+      <point x="330" y="169" type="line"/>
+      <point x="378" y="302" type="line"/>
+      <point x="584" y="302" type="line"/>
+      <point x="636" y="168" type="line"/>
+      <point x="566" y="163" type="line"/>
+      <point x="566" y="134" type="line"/>
+      <point x="778" y="134" type="line"/>
+      <point x="778" y="163" type="line"/>
+      <point x="705" y="169" type="line"/>
+      <point x="521" y="643" type="line"/>
+      <point x="474" y="643" type="line"/>
+      <point x="298" y="169" type="line"/>
+      <point x="225" y="163" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="331" type="line"/>
+      <point x="477" y="579" type="line"/>
+      <point x="573" y="331" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:21 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

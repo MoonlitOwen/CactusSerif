@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphenminus" format="2">
+  <advance width="338" height="1000"/>
+  <unicode hex="002D"/>
+  <unicode hex="2011"/>
+  <outline>
+    <contour>
+      <point x="43" y="243" type="line"/>
+      <point x="295" y="243" type="line"/>
+      <point x="295" y="301" type="line"/>
+      <point x="43" y="301" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

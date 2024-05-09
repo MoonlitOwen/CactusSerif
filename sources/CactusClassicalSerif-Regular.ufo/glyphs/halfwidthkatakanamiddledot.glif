@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="halfwidthkatakanamiddledot" format="2">
+  <advance width="500" height="1000"/>
+  <unicode hex="FF65"/>
+  <outline>
+    <contour>
+      <point x="250" y="288" type="qcurve"/>
+      <point x="288" y="288"/>
+      <point x="342" y="342"/>
+      <point x="342" y="418"/>
+      <point x="288" y="472"/>
+      <point x="250" y="472" type="qcurve"/>
+      <point x="212" y="472"/>
+      <point x="158" y="418"/>
+      <point x="158" y="342"/>
+      <point x="212" y="288"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:21 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

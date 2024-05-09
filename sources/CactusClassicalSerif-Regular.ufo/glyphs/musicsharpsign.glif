@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="musicsharpsign" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="266F"/>
+  <outline>
+    <contour>
+      <point x="369" y="-49" type="line"/>
+      <point x="408" y="-49" type="line"/>
+      <point x="408" y="202" type="line"/>
+      <point x="591" y="228" type="line"/>
+      <point x="591" y="-18" type="line"/>
+      <point x="629" y="-18" type="line"/>
+      <point x="629" y="234" type="line"/>
+      <point x="765" y="253" type="line"/>
+      <point x="765" y="323" type="line"/>
+      <point x="629" y="304" type="line"/>
+      <point x="629" y="509" type="line"/>
+      <point x="765" y="529" type="line"/>
+      <point x="765" y="599" type="line"/>
+      <point x="629" y="579" type="line"/>
+      <point x="629" y="813" type="line"/>
+      <point x="591" y="813" type="line"/>
+      <point x="591" y="573" type="line"/>
+      <point x="408" y="547" type="line"/>
+      <point x="408" y="782" type="line"/>
+      <point x="369" y="782" type="line"/>
+      <point x="369" y="541" type="line"/>
+      <point x="233" y="522" type="line"/>
+      <point x="233" y="452" type="line"/>
+      <point x="369" y="471" type="line"/>
+      <point x="369" y="266" type="line"/>
+      <point x="233" y="246" type="line"/>
+      <point x="233" y="176" type="line"/>
+      <point x="369" y="196" type="line"/>
+    </contour>
+    <contour>
+      <point x="408" y="272" type="line"/>
+      <point x="408" y="477" type="line"/>
+      <point x="591" y="503" type="line"/>
+      <point x="591" y="298" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

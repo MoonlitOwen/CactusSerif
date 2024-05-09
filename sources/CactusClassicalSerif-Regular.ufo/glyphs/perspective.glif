@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perspective" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2306"/>
+  <outline>
+    <contour>
+      <point x="405" y="84" type="line"/>
+      <point x="500" y="252" type="line"/>
+      <point x="596" y="84" type="line"/>
+      <point x="634" y="106" type="line"/>
+      <point x="514" y="315" type="line"/>
+      <point x="730" y="315" type="line"/>
+      <point x="730" y="359" type="line"/>
+      <point x="271" y="359" type="line"/>
+      <point x="271" y="315" type="line"/>
+      <point x="486" y="315" type="line"/>
+      <point x="368" y="106" type="line"/>
+    </contour>
+    <contour>
+      <point x="271" y="443" type="line"/>
+      <point x="730" y="443" type="line"/>
+      <point x="730" y="487" type="line"/>
+      <point x="271" y="487" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

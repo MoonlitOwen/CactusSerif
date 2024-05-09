@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ratio" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2236"/>
+  <outline>
+    <contour>
+      <point x="500" y="677" type="qcurve"/>
+      <point x="471" y="677"/>
+      <point x="431" y="637"/>
+      <point x="431" y="580"/>
+      <point x="471" y="540"/>
+      <point x="529" y="540"/>
+      <point x="569" y="580"/>
+      <point x="569" y="637"/>
+      <point x="529" y="677"/>
+    </contour>
+    <contour>
+      <point x="500" y="204" type="qcurve"/>
+      <point x="471" y="204"/>
+      <point x="431" y="164"/>
+      <point x="431" y="107"/>
+      <point x="471" y="67"/>
+      <point x="529" y="67"/>
+      <point x="569" y="107"/>
+      <point x="569" y="164"/>
+      <point x="529" y="204"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

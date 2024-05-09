@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hangzhounumeralseven-hani" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="3027"/>
+  <outline>
+    <contour>
+      <point x="80" y="486" type="line"/>
+      <point x="920" y="486" type="line"/>
+      <point x="920" y="507" type="line"/>
+      <point x="857" y="560" type="line"/>
+      <point x="805" y="507" type="line"/>
+      <point x="531" y="507" type="line"/>
+      <point x="531" y="650" type="line"/>
+      <point x="547" y="659" type="line"/>
+      <point x="531" y="670" type="line"/>
+      <point x="469" y="681" type="line"/>
+      <point x="469" y="507" type="line"/>
+      <point x="80" y="507" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="171" type="line"/>
+      <point x="899" y="171" type="line"/>
+      <point x="899" y="192" type="line"/>
+      <point x="836" y="245" type="line"/>
+      <point x="783" y="192" type="line"/>
+      <point x="101" y="192" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

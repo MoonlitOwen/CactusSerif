@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Vparenthesized" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="1F125"/>
+  <outline>
+    <contour>
+      <point x="470" y="23" type="line"/>
+      <point x="530" y="23" type="line"/>
+      <point x="731" y="699" type="line"/>
+      <point x="785" y="704" type="line"/>
+      <point x="785" y="741" type="line"/>
+      <point x="610" y="741" type="line"/>
+      <point x="610" y="706" type="line"/>
+      <point x="685" y="698" type="line"/>
+      <point x="523" y="127" type="line"/>
+      <point x="366" y="699" type="line"/>
+      <point x="446" y="706" type="line"/>
+      <point x="446" y="741" type="line"/>
+      <point x="222" y="741" type="line"/>
+      <point x="222" y="704" type="line"/>
+      <point x="274" y="699" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="-86" type="qcurve"/>
+      <point x="242" y="-67" type="line"/>
+      <point x="91" y="146"/>
+      <point x="91" y="614"/>
+      <point x="242" y="827" type="qcurve"/>
+      <point x="217" y="846" type="line"/>
+      <point x="33" y="629"/>
+      <point x="33" y="131"/>
+    </contour>
+    <contour>
+      <point x="783" y="-86" type="line"/>
+      <point x="967" y="131"/>
+      <point x="967" y="629"/>
+      <point x="783" y="846" type="qcurve"/>
+      <point x="758" y="827" type="line"/>
+      <point x="909" y="614"/>
+      <point x="909" y="146"/>
+      <point x="758" y="-67" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:21 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

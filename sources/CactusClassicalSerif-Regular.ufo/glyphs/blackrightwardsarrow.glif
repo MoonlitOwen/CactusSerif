@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackrightwardsarrow" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="27A1"/>
+  <unicode hex="2B95"/>
+  <outline>
+    <contour>
+      <point x="574" y="39" type="line"/>
+      <point x="575" y="39" type="line"/>
+      <point x="965" y="380" type="line"/>
+      <point x="575" y="721" type="line"/>
+      <point x="574" y="721" type="line"/>
+      <point x="574" y="546" type="line"/>
+      <point x="50" y="546" type="line"/>
+      <point x="50" y="214" type="line"/>
+      <point x="574" y="214" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

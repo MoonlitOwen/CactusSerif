@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph8593" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="4E00"/>
+  <outline>
+    <contour>
+      <point x="49" y="376" type="line"/>
+      <point x="951" y="376" type="line"/>
+      <point x="951" y="396" type="line"/>
+      <point x="889" y="449" type="line"/>
+      <point x="836" y="396" type="line"/>
+      <point x="49" y="396" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:07 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

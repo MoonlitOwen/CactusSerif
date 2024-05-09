@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V" format="2">
+  <advance width="726" height="1000"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="352" y="-8" type="line"/>
+      <point x="390" y="-8" type="line"/>
+      <point x="620" y="682" type="line"/>
+      <point x="716" y="695" type="line"/>
+      <point x="716" y="729" type="line"/>
+      <point x="466" y="729" type="line"/>
+      <point x="466" y="690" type="line"/>
+      <point x="570" y="680" type="line"/>
+      <point x="386" y="117" type="line"/>
+      <point x="190" y="681" type="line"/>
+      <point x="299" y="690" type="line"/>
+      <point x="299" y="729" type="line"/>
+      <point x="12" y="729" type="line"/>
+      <point x="12" y="694" type="line"/>
+      <point x="100" y="684" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

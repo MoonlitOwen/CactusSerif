@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="righttriangle" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="22BF"/>
+  <outline>
+    <contour>
+      <point x="109" y="23" type="line"/>
+      <point x="857" y="23" type="line"/>
+      <point x="857" y="772" type="line"/>
+      <point x="856" y="772" type="line"/>
+      <point x="109" y="25" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="67" type="line"/>
+      <point x="214" y="69" type="line"/>
+      <point x="812" y="667" type="line"/>
+      <point x="813" y="667" type="line"/>
+      <point x="813" y="67" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

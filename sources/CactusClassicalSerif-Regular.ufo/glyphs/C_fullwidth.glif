@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cfullwidth" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FF23"/>
+  <outline>
+    <contour>
+      <point x="575" y="-18" type="qcurve"/>
+      <point x="710" y="-18"/>
+      <point x="811" y="45" type="qcurve"/>
+      <point x="816" y="205" type="line"/>
+      <point x="768" y="205" type="line"/>
+      <point x="743" y="60" type="line"/>
+      <point x="670" y="22"/>
+      <point x="577" y="22" type="qcurve"/>
+      <point x="433" y="22"/>
+      <point x="348" y="114" type="qcurve"/>
+      <point x="260" y="208"/>
+      <point x="260" y="375" type="qcurve"/>
+      <point x="260" y="540"/>
+      <point x="346" y="634" type="qcurve"/>
+      <point x="432" y="726"/>
+      <point x="579" y="726" type="qcurve"/>
+      <point x="670" y="726"/>
+      <point x="733" y="689" type="qcurve"/>
+      <point x="756" y="543" type="line"/>
+      <point x="804" y="543" type="line"/>
+      <point x="800" y="707" type="line"/>
+      <point x="746" y="738"/>
+      <point x="696" y="751" type="qcurve"/>
+      <point x="642" y="765"/>
+      <point x="574" y="765" type="qcurve"/>
+      <point x="390" y="765"/>
+      <point x="280" y="660" type="qcurve"/>
+      <point x="168" y="554"/>
+      <point x="168" y="375" type="qcurve"/>
+      <point x="168" y="193"/>
+      <point x="282" y="86" type="qcurve"/>
+      <point x="393" y="-18"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:20 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>873</integer>
+    </dict>
+  </lib>
+</glyph>

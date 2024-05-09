@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zsquared" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="1F149"/>
+  <outline>
+    <contour>
+      <point x="55" y="-70" type="line"/>
+      <point x="945" y="-70" type="line"/>
+      <point x="945" y="830" type="line"/>
+      <point x="55" y="830" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="-41" type="line"/>
+      <point x="85" y="801" type="line"/>
+      <point x="915" y="801" type="line"/>
+      <point x="915" y="-41" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="134" type="line"/>
+      <point x="707" y="134" type="line"/>
+      <point x="714" y="266" type="line"/>
+      <point x="679" y="266" type="line"/>
+      <point x="661" y="164" type="line"/>
+      <point x="374" y="164" type="line"/>
+      <point x="705" y="620" type="line"/>
+      <point x="705" y="643" type="line"/>
+      <point x="308" y="643" type="line"/>
+      <point x="302" y="510" type="line"/>
+      <point x="337" y="510" type="line"/>
+      <point x="353" y="612" type="line"/>
+      <point x="625" y="612" type="line"/>
+      <point x="295" y="157" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:21 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

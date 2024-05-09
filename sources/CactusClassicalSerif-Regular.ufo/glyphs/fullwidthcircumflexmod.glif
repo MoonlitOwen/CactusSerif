@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fullwidthcircumflexmod" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FF3E"/>
+  <outline>
+    <contour>
+      <point x="324" y="222" type="line"/>
+      <point x="496" y="493" type="line"/>
+      <point x="675" y="222" type="line"/>
+      <point x="721" y="253" type="line"/>
+      <point x="521" y="557" type="line"/>
+      <point x="472" y="557" type="line"/>
+      <point x="279" y="253" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:20 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

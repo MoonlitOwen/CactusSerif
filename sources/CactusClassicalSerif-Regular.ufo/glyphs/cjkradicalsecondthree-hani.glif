@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cjkradicalsecondthree-hani" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2E84"/>
+  <outline>
+    <contour>
+      <point x="959" y="-71" type="qcurve"/>
+      <point x="973" y="-55"/>
+      <point x="943" y="-9" type="qcurve"/>
+      <point x="954" y="147" type="line"/>
+      <point x="942" y="149" type="line"/>
+      <point x="927" y="79"/>
+      <point x="911" y="36" type="qcurve"/>
+      <point x="907" y="25"/>
+      <point x="896" y="21"/>
+      <point x="886" y="28" type="qcurve"/>
+      <point x="795" y="84"/>
+      <point x="762" y="302" type="qcurve"/>
+      <point x="738" y="467"/>
+      <point x="748" y="710" type="qcurve"/>
+      <point x="780" y="714"/>
+      <point x="790" y="728" type="qcurve"/>
+      <point x="710" y="798" type="line"/>
+      <point x="670" y="755" type="line"/>
+      <point x="68" y="755" type="line"/>
+      <point x="77" y="726" type="line"/>
+      <point x="680" y="726" type="line"/>
+      <point x="679" y="409"/>
+      <point x="706" y="254" type="qcurve"/>
+      <point x="744" y="24"/>
+      <point x="857" y="-47" type="qcurve"/>
+      <point x="931" y="-103"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

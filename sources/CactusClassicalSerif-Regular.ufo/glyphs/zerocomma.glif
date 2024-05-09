@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zerocomma" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="1F101"/>
+  <outline>
+    <contour>
+      <point x="407" y="-18" type="qcurve"/>
+      <point x="517" y="-18"/>
+      <point x="585" y="73" type="qcurve"/>
+      <point x="664" y="176"/>
+      <point x="664" y="571"/>
+      <point x="585" y="675" type="qcurve"/>
+      <point x="517" y="765"/>
+      <point x="297" y="765"/>
+      <point x="228" y="675" type="qcurve"/>
+      <point x="150" y="572"/>
+      <point x="150" y="176"/>
+      <point x="228" y="73" type="qcurve"/>
+      <point x="297" y="-18"/>
+    </contour>
+    <contour>
+      <point x="733" y="-179" type="line"/>
+      <point x="847" y="-94"/>
+      <point x="850" y="30" type="qcurve"/>
+      <point x="851" y="61"/>
+      <point x="840" y="89" type="qcurve"/>
+      <point x="815" y="113"/>
+      <point x="783" y="113" type="qcurve"/>
+      <point x="756" y="113"/>
+      <point x="738" y="94" type="qcurve"/>
+      <point x="721" y="76"/>
+      <point x="721" y="51" type="qcurve"/>
+      <point x="721" y="14"/>
+      <point x="763" y="-18" type="qcurve"/>
+      <point x="789" y="-39" type="line"/>
+      <point x="765" y="-103"/>
+      <point x="714" y="-150" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="291" y="95" type="qcurve"/>
+      <point x="240" y="186"/>
+      <point x="240" y="561"/>
+      <point x="291" y="653" type="qcurve"/>
+      <point x="334" y="730"/>
+      <point x="407" y="730" type="qcurve"/>
+      <point x="479" y="730"/>
+      <point x="522" y="653" type="qcurve"/>
+      <point x="574" y="561"/>
+      <point x="574" y="186"/>
+      <point x="522" y="95" type="qcurve"/>
+      <point x="479" y="18"/>
+      <point x="334" y="18"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:21 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>793</integer>
+    </dict>
+  </lib>
+</glyph>

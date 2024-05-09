@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="infinity" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="221E"/>
+  <outline>
+    <contour>
+      <point x="239" y="159" type="qcurve"/>
+      <point x="391" y="159"/>
+      <point x="499" y="332" type="qcurve"/>
+      <point x="501" y="332" type="line"/>
+      <point x="609" y="159"/>
+      <point x="761" y="159" type="qcurve"/>
+      <point x="847" y="159"/>
+      <point x="965" y="280"/>
+      <point x="965" y="456"/>
+      <point x="847" y="577"/>
+      <point x="761" y="577" type="qcurve"/>
+      <point x="609" y="577"/>
+      <point x="501" y="404" type="qcurve"/>
+      <point x="499" y="404" type="line"/>
+      <point x="391" y="577"/>
+      <point x="239" y="577" type="qcurve"/>
+      <point x="153" y="577"/>
+      <point x="35" y="456"/>
+      <point x="35" y="280"/>
+      <point x="153" y="159"/>
+    </contour>
+    <contour>
+      <point x="239" y="203" type="qcurve"/>
+      <point x="171" y="203"/>
+      <point x="79" y="298"/>
+      <point x="79" y="438"/>
+      <point x="171" y="533"/>
+      <point x="239" y="533" type="qcurve"/>
+      <point x="302" y="533"/>
+      <point x="356" y="497" type="qcurve"/>
+      <point x="416" y="457"/>
+      <point x="471" y="369" type="qcurve"/>
+      <point x="471" y="367" type="line"/>
+      <point x="416" y="279"/>
+      <point x="356" y="239" type="qcurve"/>
+      <point x="302" y="203"/>
+    </contour>
+    <contour>
+      <point x="761" y="203" type="qcurve"/>
+      <point x="698" y="203"/>
+      <point x="644" y="239" type="qcurve"/>
+      <point x="584" y="279"/>
+      <point x="529" y="367" type="qcurve"/>
+      <point x="529" y="369" type="line"/>
+      <point x="584" y="457"/>
+      <point x="644" y="497" type="qcurve"/>
+      <point x="698" y="533"/>
+      <point x="761" y="533" type="qcurve"/>
+      <point x="829" y="533"/>
+      <point x="921" y="438"/>
+      <point x="921" y="298"/>
+      <point x="829" y="203"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

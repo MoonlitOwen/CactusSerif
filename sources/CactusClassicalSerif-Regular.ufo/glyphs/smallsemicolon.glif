@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="smallsemicolon" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE54"/>
+  <outline>
+    <contour>
+      <point x="446" y="-136" type="line"/>
+      <point x="501" y="-108"/>
+      <point x="530" y="-53" type="qcurve"/>
+      <point x="554" y="-7"/>
+      <point x="554" y="44" type="qcurve"/>
+      <point x="554" y="76"/>
+      <point x="524" y="115"/>
+      <point x="497" y="115" type="qcurve"/>
+      <point x="474" y="115"/>
+      <point x="446" y="87"/>
+      <point x="446" y="67" type="qcurve"/>
+      <point x="446" y="42"/>
+      <point x="466" y="25" type="qcurve"/>
+      <point x="480" y="15"/>
+      <point x="510" y="4" type="qcurve"/>
+      <point x="504" y="-70"/>
+      <point x="431" y="-113" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="500" y="379" type="qcurve"/>
+      <point x="522" y="379"/>
+      <point x="553" y="410"/>
+      <point x="553" y="454"/>
+      <point x="522" y="484"/>
+      <point x="478" y="484"/>
+      <point x="447" y="454"/>
+      <point x="447" y="410"/>
+      <point x="478" y="379"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:20 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

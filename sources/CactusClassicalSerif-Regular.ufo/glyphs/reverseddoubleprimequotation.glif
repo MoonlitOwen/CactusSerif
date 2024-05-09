@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reverseddoubleprimequotation" format="2">
+  <advance width="500" height="1000"/>
+  <unicode hex="301D"/>
+  <outline>
+    <contour>
+      <point x="454" y="663" type="qcurve"/>
+      <point x="463" y="679" type="line"/>
+      <point x="340" y="772"/>
+      <point x="273" y="821" type="qcurve"/>
+      <point x="252" y="836"/>
+      <point x="231" y="851" type="qcurve"/>
+      <point x="204" y="867"/>
+      <point x="164" y="790"/>
+      <point x="188" y="777" type="qcurve"/>
+      <point x="321" y="720"/>
+    </contour>
+    <contour>
+      <point x="426" y="462" type="qcurve"/>
+      <point x="435" y="478" type="line"/>
+      <point x="312" y="571"/>
+      <point x="245" y="620" type="qcurve"/>
+      <point x="224" y="635"/>
+      <point x="203" y="650" type="qcurve"/>
+      <point x="176" y="666"/>
+      <point x="136" y="589"/>
+      <point x="160" y="576" type="qcurve"/>
+      <point x="293" y="519"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <real>868.697</real>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fullwidthnotsign" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FFE2"/>
+  <outline>
+    <contour>
+      <point x="792" y="212" type="line"/>
+      <point x="836" y="212" type="line"/>
+      <point x="836" y="512" type="line"/>
+      <point x="136" y="512" type="line"/>
+      <point x="136" y="468" type="line"/>
+      <point x="792" y="468" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:21 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

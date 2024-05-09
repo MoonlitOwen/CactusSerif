@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ideographicannotationtopsuperior" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="3196"/>
+  <outline>
+    <contour>
+      <point x="50" y="-26" type="line"/>
+      <point x="933" y="-26" type="line"/>
+      <point x="955" y="-26"/>
+      <point x="959" y="-10" type="qcurve"/>
+      <point x="937" y="11"/>
+      <point x="899" y="41" type="qcurve"/>
+      <point x="882" y="55"/>
+      <point x="865" y="68" type="qcurve"/>
+      <point x="813" y="4" type="line"/>
+      <point x="505" y="4" type="line"/>
+      <point x="505" y="436" type="line"/>
+      <point x="854" y="436" type="line"/>
+      <point x="875" y="436"/>
+      <point x="879" y="452" type="qcurve"/>
+      <point x="833" y="491"/>
+      <point x="787" y="530" type="qcurve"/>
+      <point x="735" y="465" type="line"/>
+      <point x="505" y="465" type="line"/>
+      <point x="505" y="789" type="line"/>
+      <point x="536" y="794"/>
+      <point x="541" y="817" type="qcurve"/>
+      <point x="437" y="828" type="line"/>
+      <point x="437" y="4" type="line"/>
+      <point x="42" y="4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

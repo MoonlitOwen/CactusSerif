@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="squarewithhorizontalfill" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="25A4"/>
+  <outline>
+    <contour>
+      <point x="100" y="-20" type="line"/>
+      <point x="900" y="-20" type="line"/>
+      <point x="900" y="780" type="line"/>
+      <point x="100" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="20" type="line"/>
+      <point x="140" y="170" type="line"/>
+      <point x="860" y="170" type="line"/>
+      <point x="860" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="210" type="line"/>
+      <point x="140" y="360" type="line"/>
+      <point x="860" y="360" type="line"/>
+      <point x="860" y="210" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="400" type="line"/>
+      <point x="140" y="550" type="line"/>
+      <point x="860" y="550" type="line"/>
+      <point x="860" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="590" type="line"/>
+      <point x="140" y="740" type="line"/>
+      <point x="860" y="740" type="line"/>
+      <point x="860" y="590" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

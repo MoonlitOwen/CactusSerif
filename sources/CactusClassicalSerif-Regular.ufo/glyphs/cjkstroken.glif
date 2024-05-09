@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cjkstroken" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="31CF"/>
+  <outline>
+    <contour>
+      <point x="726" y="3" type="qcurve"/>
+      <point x="749" y="53"/>
+      <point x="803" y="55" type="qcurve"/>
+      <point x="806" y="65" type="line"/>
+      <point x="570" y="145"/>
+      <point x="418" y="313" type="qcurve"/>
+      <point x="260" y="489"/>
+      <point x="208" y="746" type="qcurve"/>
+      <point x="190" y="735" type="line"/>
+      <point x="279" y="193"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

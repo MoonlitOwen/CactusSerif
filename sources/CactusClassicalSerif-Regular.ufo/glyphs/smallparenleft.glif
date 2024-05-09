@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="smallparenleft" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE59"/>
+  <outline>
+    <contour>
+      <point x="571" y="-71" type="qcurve"/>
+      <point x="587" y="-52" type="line"/>
+      <point x="443" y="73"/>
+      <point x="443" y="451"/>
+      <point x="587" y="576" type="qcurve"/>
+      <point x="571" y="595" type="line"/>
+      <point x="384" y="465"/>
+      <point x="384" y="59"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:20 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

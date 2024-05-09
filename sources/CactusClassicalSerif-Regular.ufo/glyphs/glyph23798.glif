@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph23798" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="8980"/>
+  <outline>
+    <contour>
+      <point x="117" y="150" type="line"/>
+      <point x="180" y="150" type="line"/>
+      <point x="180" y="203" type="line"/>
+      <point x="820" y="203" type="line"/>
+      <point x="820" y="150" type="line"/>
+      <point x="883" y="150" type="line"/>
+      <point x="883" y="438" type="line"/>
+      <point x="909" y="460" type="line"/>
+      <point x="852" y="507" type="line"/>
+      <point x="820" y="480" type="line"/>
+      <point x="652" y="480" type="line"/>
+      <point x="652" y="633" type="line"/>
+      <point x="931" y="633" type="line"/>
+      <point x="931" y="654" type="line"/>
+      <point x="867" y="707" type="line"/>
+      <point x="815" y="654" type="line"/>
+      <point x="69" y="654" type="line"/>
+      <point x="69" y="633" type="line"/>
+      <point x="348" y="633" type="line"/>
+      <point x="348" y="480" type="line"/>
+      <point x="180" y="480" type="line"/>
+      <point x="117" y="513" type="line"/>
+    </contour>
+    <contour>
+      <point x="180" y="224" type="line"/>
+      <point x="180" y="460" type="line"/>
+      <point x="348" y="460" type="line"/>
+      <point x="348" y="224" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="224" type="line"/>
+      <point x="411" y="460" type="line"/>
+      <point x="589" y="460" type="line"/>
+      <point x="589" y="224" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="480" type="line"/>
+      <point x="411" y="633" type="line"/>
+      <point x="589" y="633" type="line"/>
+      <point x="589" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="652" y="224" type="line"/>
+      <point x="652" y="460" type="line"/>
+      <point x="820" y="460" type="line"/>
+      <point x="820" y="224" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:16 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

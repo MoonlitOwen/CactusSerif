@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftwhitecornerbracket" format="2">
+  <advance width="500" height="1000"/>
+  <unicode hex="300E"/>
+  <outline>
+    <contour>
+      <point x="102" y="185" type="line"/>
+      <point x="252" y="185" type="line"/>
+      <point x="252" y="698" type="line"/>
+      <point x="460" y="698" type="line"/>
+      <point x="460" y="844" type="line"/>
+      <point x="102" y="844" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="213" type="line"/>
+      <point x="130" y="816" type="line"/>
+      <point x="432" y="816" type="line"/>
+      <point x="432" y="726" type="line"/>
+      <point x="224" y="726" type="line"/>
+      <point x="224" y="213" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

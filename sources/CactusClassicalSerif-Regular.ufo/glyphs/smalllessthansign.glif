@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="smalllessthansign" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE64"/>
+  <outline>
+    <contour>
+      <point x="640" y="34" type="line"/>
+      <point x="660" y="72" type="line"/>
+      <point x="367" y="238" type="line"/>
+      <point x="660" y="404" type="line"/>
+      <point x="640" y="441" type="line"/>
+      <point x="309" y="251" type="line"/>
+      <point x="309" y="225" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:20 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

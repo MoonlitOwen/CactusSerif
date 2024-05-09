@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="presentationformforverticalleftwhitelenticularbracket" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE17"/>
+  <outline>
+    <contour>
+      <point x="37" y="-83" type="line"/>
+      <point x="58" y="-83" type="line"/>
+      <point x="109" y="34"/>
+      <point x="221" y="104" type="qcurve"/>
+      <point x="340" y="177"/>
+      <point x="500" y="177" type="qcurve"/>
+      <point x="660" y="177"/>
+      <point x="779" y="104" type="qcurve"/>
+      <point x="891" y="34"/>
+      <point x="942" y="-83" type="qcurve"/>
+      <point x="963" y="-83" type="line"/>
+      <point x="963" y="268" type="line"/>
+      <point x="37" y="268" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="-12" type="qcurve"/>
+      <point x="65" y="240" type="line"/>
+      <point x="935" y="240" type="line"/>
+      <point x="935" y="-12" type="line"/>
+      <point x="883" y="73"/>
+      <point x="791" y="129" type="qcurve"/>
+      <point x="667" y="205"/>
+      <point x="500" y="205" type="qcurve"/>
+      <point x="333" y="205"/>
+      <point x="209" y="129" type="qcurve"/>
+      <point x="117" y="73"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:20 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

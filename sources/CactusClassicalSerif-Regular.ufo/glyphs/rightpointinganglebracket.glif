@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightpointinganglebracket" format="2">
+  <advance width="500" height="1000"/>
+  <unicode hex="232A"/>
+  <unicode hex="3009"/>
+  <outline>
+    <contour>
+      <point x="60" y="-90" type="line"/>
+      <point x="461" y="380" type="line"/>
+      <point x="60" y="850" type="line"/>
+      <point x="30" y="824" type="line"/>
+      <point x="408" y="380" type="line"/>
+      <point x="30" y="-64" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acaron" format="2">
+  <advance width="719" height="1000"/>
+  <unicode hex="01CD"/>
+  <outline>
+    <contour>
+      <point x="8" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="248" y="36" type="line"/>
+      <point x="143" y="49" type="line"/>
+      <point x="208" y="246" type="line"/>
+      <point x="465" y="246" type="line"/>
+      <point x="531" y="47" type="line"/>
+      <point x="421" y="36" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="710" y="0" type="line"/>
+      <point x="710" y="36" type="line"/>
+      <point x="620" y="46" type="line"/>
+      <point x="385" y="736" type="line"/>
+      <point x="329" y="736" type="line"/>
+      <point x="98" y="48" type="line"/>
+      <point x="8" y="36" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="287" type="line"/>
+      <point x="336" y="633" type="line"/>
+      <point x="451" y="287" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="796" type="line"/>
+      <point x="388" y="796" type="line"/>
+      <point x="500" y="924" type="line"/>
+      <point x="480" y="941" type="line"/>
+      <point x="355" y="848" type="line"/>
+      <point x="229" y="941" type="line"/>
+      <point x="209" y="924" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

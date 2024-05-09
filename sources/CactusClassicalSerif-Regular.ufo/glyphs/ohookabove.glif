@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohookabove" format="2">
+  <advance width="594" height="1000"/>
+  <unicode hex="1ECF"/>
+  <outline>
+    <contour>
+      <point x="128" y="53" type="qcurve"/>
+      <point x="196" y="-14"/>
+      <point x="397" y="-14"/>
+      <point x="466" y="53" type="qcurve"/>
+      <point x="542" y="127"/>
+      <point x="542" y="384"/>
+      <point x="465" y="460" type="qcurve"/>
+      <point x="396" y="528"/>
+      <point x="297" y="528" type="qcurve"/>
+      <point x="197" y="528"/>
+      <point x="128" y="460" type="qcurve"/>
+      <point x="51" y="384"/>
+      <point x="51" y="127"/>
+    </contour>
+    <contour>
+      <point x="179" y="84" type="qcurve"/>
+      <point x="136" y="144"/>
+      <point x="136" y="366"/>
+      <point x="221" y="488"/>
+      <point x="297" y="488" type="qcurve"/>
+      <point x="373" y="488"/>
+      <point x="458" y="366"/>
+      <point x="458" y="144"/>
+      <point x="415" y="84" type="qcurve"/>
+      <point x="373" y="26"/>
+      <point x="220" y="26"/>
+    </contour>
+    <contour>
+      <point x="284" y="601" type="line"/>
+      <point x="330" y="607"/>
+      <point x="382" y="660"/>
+      <point x="382" y="699" type="qcurve"/>
+      <point x="382" y="793"/>
+      <point x="254" y="805" type="qcurve"/>
+      <point x="245" y="745" type="line"/>
+      <point x="297" y="736"/>
+      <point x="338" y="710"/>
+      <point x="338" y="684" type="qcurve"/>
+      <point x="338" y="641"/>
+      <point x="276" y="627" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

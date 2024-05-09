@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sfullwidth" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FF53"/>
+  <outline>
+    <contour>
+      <point x="483" y="-18" type="qcurve"/>
+      <point x="608" y="-18"/>
+      <point x="674" y="28" type="qcurve"/>
+      <point x="736" y="70"/>
+      <point x="736" y="144" type="qcurve"/>
+      <point x="736" y="203"/>
+      <point x="703" y="239" type="qcurve"/>
+      <point x="665" y="280"/>
+      <point x="583" y="296" type="qcurve"/>
+      <point x="462" y="318" type="line"/>
+      <point x="397" y="331"/>
+      <point x="369" y="357" type="qcurve"/>
+      <point x="344" y="380"/>
+      <point x="344" y="416" type="qcurve"/>
+      <point x="344" y="459"/>
+      <point x="383" y="484" type="qcurve"/>
+      <point x="424" y="509"/>
+      <point x="497" y="509" type="qcurve"/>
+      <point x="569" y="509"/>
+      <point x="631" y="484" type="qcurve"/>
+      <point x="647" y="392" type="line"/>
+      <point x="700" y="392" type="line"/>
+      <point x="706" y="499" type="line"/>
+      <point x="600" y="545"/>
+      <point x="503" y="545" type="qcurve"/>
+      <point x="389" y="545"/>
+      <point x="328" y="504" type="qcurve"/>
+      <point x="269" y="465"/>
+      <point x="269" y="395" type="qcurve"/>
+      <point x="269" y="276"/>
+      <point x="421" y="247" type="qcurve"/>
+      <point x="531" y="227" type="line"/>
+      <point x="603" y="213"/>
+      <point x="633" y="185" type="qcurve"/>
+      <point x="657" y="162"/>
+      <point x="657" y="123" type="qcurve"/>
+      <point x="657" y="74"/>
+      <point x="570" y="19"/>
+      <point x="493" y="19" type="qcurve"/>
+      <point x="394" y="19"/>
+      <point x="324" y="50" type="qcurve"/>
+      <point x="305" y="159" type="line"/>
+      <point x="252" y="159" type="line"/>
+      <point x="253" y="36" type="line"/>
+      <point x="362" y="-18"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:21 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>763</integer>
+    </dict>
+  </lib>
+</glyph>

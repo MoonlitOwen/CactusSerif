@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nfullwidth" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FF2E"/>
+  <outline>
+    <contour>
+      <point x="742" y="-7" type="line"/>
+      <point x="792" y="-7" type="line"/>
+      <point x="792" y="702" type="line"/>
+      <point x="910" y="710" type="line"/>
+      <point x="910" y="748" type="line"/>
+      <point x="619" y="748" type="line"/>
+      <point x="619" y="710" type="line"/>
+      <point x="749" y="702" type="line"/>
+      <point x="749" y="128" type="line"/>
+      <point x="285" y="748" type="line"/>
+      <point x="99" y="748" type="line"/>
+      <point x="99" y="710" type="line"/>
+      <point x="210" y="701" type="line"/>
+      <point x="215" y="694" type="line"/>
+      <point x="215" y="46" type="line"/>
+      <point x="99" y="37" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="390" y="37" type="line"/>
+      <point x="259" y="46" type="line"/>
+      <point x="259" y="636" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:20 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>870</integer>
+    </dict>
+  </lib>
+</glyph>

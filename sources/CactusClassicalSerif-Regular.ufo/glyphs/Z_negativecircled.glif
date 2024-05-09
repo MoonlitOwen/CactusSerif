@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Znegativecircled" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="1F169"/>
+  <outline>
+    <contour>
+      <point x="266" y="-23" type="qcurve"/>
+      <point x="373" y="-85"/>
+      <point x="627" y="-85"/>
+      <point x="733" y="-23" type="qcurve"/>
+      <point x="838" y="38"/>
+      <point x="898" y="143" type="qcurve"/>
+      <point x="960" y="251"/>
+      <point x="960" y="509"/>
+      <point x="898" y="617" type="qcurve"/>
+      <point x="838" y="722"/>
+      <point x="734" y="783" type="qcurve"/>
+      <point x="627" y="845"/>
+      <point x="500" y="845" type="qcurve"/>
+      <point x="373" y="845"/>
+      <point x="266" y="783" type="qcurve"/>
+      <point x="162" y="722"/>
+      <point x="102" y="617" type="qcurve"/>
+      <point x="40" y="509"/>
+      <point x="40" y="251"/>
+      <point x="102" y="143" type="qcurve"/>
+      <point x="162" y="38"/>
+    </contour>
+    <contour>
+      <point x="291" y="134" type="line"/>
+      <point x="291" y="158" type="line"/>
+      <point x="617" y="610" type="line"/>
+      <point x="355" y="610" type="line"/>
+      <point x="338" y="509" type="line"/>
+      <point x="299" y="509" type="line"/>
+      <point x="305" y="644" type="line"/>
+      <point x="708" y="644" type="line"/>
+      <point x="708" y="619" type="line"/>
+      <point x="381" y="166" type="line"/>
+      <point x="659" y="166" type="line"/>
+      <point x="676" y="268" type="line"/>
+      <point x="716" y="268" type="line"/>
+      <point x="709" y="134" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:21 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

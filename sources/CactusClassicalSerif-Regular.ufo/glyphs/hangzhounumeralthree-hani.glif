@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hangzhounumeralthree-hani" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="3023"/>
+  <outline>
+    <contour>
+      <point x="731" y="-55" type="line"/>
+      <point x="794" y="-23" type="line"/>
+      <point x="794" y="802" type="line"/>
+      <point x="810" y="812" type="line"/>
+      <point x="794" y="822" type="line"/>
+      <point x="731" y="833" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="-55" type="line"/>
+      <point x="269" y="-23" type="line"/>
+      <point x="269" y="802" type="line"/>
+      <point x="285" y="812" type="line"/>
+      <point x="269" y="822" type="line"/>
+      <point x="206" y="833" type="line"/>
+    </contour>
+    <contour>
+      <point x="469" y="45" type="line"/>
+      <point x="531" y="76" type="line"/>
+      <point x="531" y="755" type="line"/>
+      <point x="547" y="765" type="line"/>
+      <point x="531" y="774" type="line"/>
+      <point x="469" y="785" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hangzhounumeraleight-hani" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="3028"/>
+  <outline>
+    <contour>
+      <point x="111" y="549" type="line"/>
+      <point x="889" y="549" type="line"/>
+      <point x="889" y="570" type="line"/>
+      <point x="825" y="623" type="line"/>
+      <point x="773" y="570" type="line"/>
+      <point x="531" y="570" type="line"/>
+      <point x="531" y="697" type="line"/>
+      <point x="547" y="707" type="line"/>
+      <point x="531" y="717" type="line"/>
+      <point x="469" y="728" type="line"/>
+      <point x="469" y="570" type="line"/>
+      <point x="111" y="570" type="line"/>
+    </contour>
+    <contour>
+      <point x="69" y="66" type="line"/>
+      <point x="931" y="66" type="line"/>
+      <point x="931" y="87" type="line"/>
+      <point x="867" y="140" type="line"/>
+      <point x="815" y="87" type="line"/>
+      <point x="69" y="87" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="318" type="line"/>
+      <point x="815" y="318" type="line"/>
+      <point x="815" y="339" type="line"/>
+      <point x="752" y="392" type="line"/>
+      <point x="699" y="339" type="line"/>
+      <point x="185" y="339" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

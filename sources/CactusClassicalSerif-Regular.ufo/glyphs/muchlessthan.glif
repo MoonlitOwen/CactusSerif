@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="muchlessthan" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="226A"/>
+  <outline>
+    <contour>
+      <point x="882" y="-12" type="line"/>
+      <point x="907" y="24" type="line"/>
+      <point x="417" y="367" type="line"/>
+      <point x="417" y="369" type="line"/>
+      <point x="908" y="712" type="line"/>
+      <point x="883" y="748" type="line"/>
+      <point x="342" y="369" type="line"/>
+      <point x="342" y="367" type="line"/>
+    </contour>
+    <contour>
+      <point x="631" y="-12" type="line"/>
+      <point x="656" y="24" type="line"/>
+      <point x="166" y="367" type="line"/>
+      <point x="166" y="369" type="line"/>
+      <point x="657" y="712" type="line"/>
+      <point x="631" y="748" type="line"/>
+      <point x="91" y="369" type="line"/>
+      <point x="91" y="367" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

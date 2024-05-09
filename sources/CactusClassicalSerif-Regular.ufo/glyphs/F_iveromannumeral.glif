@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fiveromannumeral" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2164"/>
+  <outline>
+    <contour>
+      <point x="468" y="-7" type="line"/>
+      <point x="525" y="-7" type="line"/>
+      <point x="747" y="702" type="line"/>
+      <point x="821" y="710" type="line"/>
+      <point x="821" y="748" type="line"/>
+      <point x="617" y="748" type="line"/>
+      <point x="617" y="711" type="line"/>
+      <point x="704" y="702" type="line"/>
+      <point x="518" y="94" type="line"/>
+      <point x="335" y="703" type="line"/>
+      <point x="427" y="711" type="line"/>
+      <point x="427" y="748" type="line"/>
+      <point x="171" y="748" type="line"/>
+      <point x="171" y="710" type="line"/>
+      <point x="243" y="703" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>870</integer>
+    </dict>
+  </lib>
+</glyph>

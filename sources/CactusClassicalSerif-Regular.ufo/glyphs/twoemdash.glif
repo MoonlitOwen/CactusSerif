@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twoemdash" format="2">
+  <advance width="1675" height="1000"/>
+  <unicode hex="2E3A"/>
+  <outline>
+    <contour>
+      <point x="43" y="243" type="line"/>
+      <point x="1632" y="243" type="line"/>
+      <point x="1632" y="301" type="line"/>
+      <point x="43" y="301" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

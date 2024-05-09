@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="487" y="-83" type="qcurve"/>
+      <point x="514" y="-83" type="line"/>
+      <point x="522" y="41"/>
+      <point x="535" y="182" type="qcurve"/>
+      <point x="544" y="287"/>
+      <point x="544" y="326" type="qcurve"/>
+      <point x="544" y="405"/>
+      <point x="512" y="516" type="qcurve"/>
+      <point x="589" y="498" type="line"/>
+      <point x="653" y="480"/>
+      <point x="693" y="480" type="qcurve"/>
+      <point x="718" y="480"/>
+      <point x="745" y="506"/>
+      <point x="745" y="527" type="qcurve"/>
+      <point x="745" y="574"/>
+      <point x="693" y="574" type="qcurve"/>
+      <point x="653" y="574"/>
+      <point x="589" y="556" type="qcurve"/>
+      <point x="511" y="539" type="line"/>
+      <point x="529" y="623" type="line"/>
+      <point x="548" y="693"/>
+      <point x="548" y="728" type="qcurve"/>
+      <point x="548" y="752"/>
+      <point x="522" y="778"/>
+      <point x="500" y="778" type="qcurve"/>
+      <point x="453" y="778"/>
+      <point x="453" y="728" type="qcurve"/>
+      <point x="453" y="691"/>
+      <point x="472" y="623" type="qcurve"/>
+      <point x="490" y="538" type="line"/>
+      <point x="412" y="556" type="line"/>
+      <point x="344" y="575"/>
+      <point x="308" y="575" type="qcurve"/>
+      <point x="256" y="575"/>
+      <point x="256" y="527" type="qcurve"/>
+      <point x="256" y="480"/>
+      <point x="308" y="480" type="qcurve"/>
+      <point x="351" y="480"/>
+      <point x="412" y="499" type="qcurve"/>
+      <point x="489" y="516" type="line"/>
+      <point x="457" y="410"/>
+      <point x="457" y="326" type="qcurve"/>
+      <point x="457" y="287"/>
+      <point x="466" y="183" type="qcurve"/>
+      <point x="479" y="42"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

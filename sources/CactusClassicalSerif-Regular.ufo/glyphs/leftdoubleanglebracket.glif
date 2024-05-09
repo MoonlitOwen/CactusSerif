@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftdoubleanglebracket" format="2">
+  <advance width="500" height="1000"/>
+  <unicode hex="300A"/>
+  <outline>
+    <contour>
+      <point x="440" y="-86" type="line"/>
+      <point x="469" y="-68" type="line"/>
+      <point x="212" y="380" type="line"/>
+      <point x="469" y="828" type="line"/>
+      <point x="440" y="846" type="line"/>
+      <point x="172" y="380" type="line"/>
+    </contour>
+    <contour>
+      <point x="297" y="-86" type="line"/>
+      <point x="326" y="-68" type="line"/>
+      <point x="70" y="380" type="line"/>
+      <point x="326" y="828" type="line"/>
+      <point x="297" y="846" type="line"/>
+      <point x="30" y="380" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:53:03 +0000</string>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
