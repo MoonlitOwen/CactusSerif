@@ -42,7 +42,7 @@ jobs:
     - name: Build font
       run: make build
   release:
-    # only run if the commit is tagged...
+    # only run if the commit is tagged... 
     if: github.event_name == 'release'
     # ... and it builds successfully
     needs:
