@@ -71,7 +71,13 @@ for UFO in SOURCE.glob("*.ufo"):
     font = ufoLib2.Font.open(UFO)
 
     # Setting useTypoMetrics flag
-    font.info.openTypeOS2Selection.append(7)
+    if 7 in font.info.openTypeOS2Selection:
+        font.info.openTypeOS2Selection.remove(7)
+
+    # Setting version number override
+    print(f"Overriding version to {VERSION[0]}.{VERSION[1]:03d}")
+    font.info.versionMajor = VERSION[0]
+    font.info.versionMinor = VERSION[1]
 
     name_records = []
 
