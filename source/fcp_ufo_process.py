@@ -90,11 +90,11 @@ with open(SOURCE / ".." / "config.yaml") as f:
     print(f"Overriding version to {VERSION[0]}.{VERSION[1]:03d}")
     font.info.versionMajor = VERSION[0]
     font.info.versionMinor = VERSION[1]
-    font.info.openTypeNameVersion = "Version "+VERSION[0]+"."+VERSION[1]
+    font.info.openTypeNameVersion = f"Version {VERSION[0]}.{VERSION[1]:03d}"
     name_records = []
 
     if "Regular" not in font.info.postscriptFontName:
-        font.info.postscriptFontName = postscriptFontName+"-Regular"
+        font.info.postscriptFontName = font.info.postscriptFontName+"-Regular"
 
     for record in font.info.openTypeNameRecords:
         #FCP creates a NID 16 for the localized name, but not a NID1
