@@ -1,4 +1,11 @@
 sources:
-  - CactusClassicalSerif-Regular.ufo
+  - temp/CactusClassicalSerif-Regular.ufo
 familyName: "Cactus Classical Serif"
-removeOutlineOverlaps: false
+# some glyphs from new source has overlaps
+removeOutlineOverlaps: True
+extraFontmakeArgs: "--production-names --overlaps-backend pathops"
+autohintOTF: False
+autohintTTF: False
+buildWebfont: False
+buildSmallCap: False
+version: 1.005

@@ -1,6 +1,10 @@
 # python virtual environment for installing gftools
 fontenv
 
-# auto generated file by gftools
-source/build.ninja
-source/.ninja_log
+source/temp/
+*.ninja
+*.ninja_log
+.DS_Store
+results.md
+venv/
+*.ufo
