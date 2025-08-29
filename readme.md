@@ -10,7 +10,7 @@
 
 目前最新版本爲1.000版，發佈於2024年4月23日。
 
-🌕 [仙人掌明體 Cactus Classical Serif 下載](fonts/CactusClassicalSerif.otf) 🌕
+🌕 [仙人掌明體 Cactus Classical Serif 下載 （ttf檔案）](fonts/ttf/CactusClassicalSerif-Regular.ttf) 🌕<br>🌕 [仙人掌明體 Cactus Classical Serif 下載 （otf檔案）](fonts/otf/CactusClassicalSerif-Regular.otf) 🌕
 
 下載方法：點進連結後，按「View raw」欄右上方的「Download raw file」按鈕（如下圖紅圈所示）。
 ![下載鍵的位置](img/dl.png)
@@ -47,3 +47,4 @@
 * [初夏明朝體（Early Summer Mincho）](https://github.com/GuiWonder/EarlySummerMincho)
 * [尚古明體（Shanggu Serif）](https://github.com/GuiWonder/Shanggu)
 * [華英明朝（Huaying Mincho）](https://github.com/GuiWonder/HuayingMincho)
+
